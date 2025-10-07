@@ -1,10 +1,11 @@
 import React from "react";
 import download from '../assets/icon-downloads.png';
 import star from '../assets/icon-ratings.png';
+import { Link } from "react-router";
 
 const AppsCard = ({ item }) => {
   return (
-    <div className="bg-white shadow-md rounded-xl overflow-hidden hover:shadow-xl transition-shadow duration-300">
+    <Link to={`/app/${item.id}`} className="bg-white shadow-md rounded-xl overflow-hidden hover:shadow-xl transition-shadow duration-300">
       {/* App Image */}
       <div className="w-full h-60 rounded-xl p-2">
         {item.image && (
@@ -33,7 +34,7 @@ const AppsCard = ({ item }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

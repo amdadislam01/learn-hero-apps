@@ -4,17 +4,17 @@
     "image": "https://i.ibb.co.com/27tsNvnN/ChatEase.png",
     "title": "ChatEase",
     "companyName": "TechNova Inc.",
-    "description": "ChatEase by TechNova Inc. provides amazing features and seamless experience.",
+    "description": "ChatEase revolutionizes digital communication by offering a seamless, all-in-one messaging platform. It integrates text, voice, and video calls with unparalleled clarity. Organize your conversations with custom labels and powerful search to find any message, link, or file in seconds. With ChatEase, collaborate effortlessly using built-in screen sharing and a virtual whiteboard for team projects. Your privacy is our priority; all chats are protected with end-to-end encryption and self-destructing message options. Create themed group chats for family, friends, or work, and share moments in high definition. The app's intuitive interface adapts to your style, offering dark mode and customizable chat bubbles. Stay connected across all your devices with perfect synchronization, ensuring you never miss a beat. ChatEase is more than an app; it's your gateway to effortless and secure global communication, designed to make every conversation feel personal and protected, whether you're chatting one-on-one or coordinating with a large team across different time zones.",
     "size": 10.0,
     "reviews": 500,
     "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {"name": "1 star", "count": 1000},
-      {"name": "2 star", "count": 1500},
-      {"name": "3 star", "count": 2000},
-      {"name": "4 star", "count": 3000},
-      {"name": "5 star", "count": 5000}
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5000 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "image": "https://i.ibb.co.com/DBVpK3G/Photo-Snap.png",
     "title": "PhotoSnap",
     "companyName": "PixelSoft",
-    "description": "PhotoSnap by PixelSoft provides amazing features and seamless experience.",
+    "description": "PhotoSnap is your ultimate creative companion for capturing, editing, and sharing stunning visual stories. Unleash your inner photographer with a powerful suite of pro-level tools, including manual camera controls for shutter speed, ISO, and focus. The AI-powered editor automatically enhances your shots, suggesting perfect filters and corrections. Dive into advanced editing with layered compositions, selective color adjustments, and a vast library of artistic filters and fonts. Create mesmerizing slow-motion videos and time-lapses with ease. PhotoSnap's cloud library securely backs up every memory in full resolution, accessible from any device. Join a vibrant community of creators, participate in daily photo challenges, and get inspired. Share your masterpieces directly to social platforms or in high-quality prints. With PhotoSnap, every moment becomes a masterpiece waiting to be discovered and shared with the world, transforming your everyday photos into gallery-worthy art with just a few taps.",
     "size": 12.5,
     "reviews": 537,
     "ratingAvg": 3.4,
     "downloads": 5,
     "ratings": [
-      {"name": "1 star", "count": 1010},
-      {"name": "2 star", "count": 1510},
-      {"name": "3 star", "count": 2010},
-      {"name": "4 star", "count": 3010},
-      {"name": "5 star", "count": 5010}
+      { "name": "1 star", "count": 1010 },
+      { "name": "2 star", "count": 1510 },
+      { "name": "3 star", "count": 2010 },
+      { "name": "4 star", "count": 3010 },
+      { "name": "5 star", "count": 5010 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "image": "https://i.ibb.co.com/cSXmgjjL/TaskFlow.png",
     "title": "TaskFlow",
     "companyName": "NextGen Labs",
-    "description": "TaskFlow by NextGen Labs provides amazing features and seamless experience.",
+    "description": "TaskFlow transforms overwhelming to-do lists into a streamlined workflow for unparalleled productivity. This intelligent task manager uses a unique kanban-board interface, allowing you to visualize your projects from 'To-Do' to 'Done' with a simple drag-and-drop. Break down ambitious goals into manageable sub-tasks and set deadlines with smart reminders that adapt to your schedule. The integrated focus timer, based on the Pomodoro technique, helps you maintain deep concentration and prevent burnout. Collaborate with your team by assigning tasks, sharing files, and leaving comments in real-time. Generate detailed productivity reports to analyze your work patterns and optimize your efficiency. With seamless cross-platform synchronization, your tasks are always up-to-date, whether you're on your phone, tablet, or computer. TaskFlow doesn't just manage your tasks; it empowers you to achieve more with less stress and greater clarity, making it the perfect digital companion for students, professionals, and anyone looking to bring order to their busy life.",
     "size": 15.0,
     "reviews": 574,
     "ratingAvg": 3.8,
     "downloads": 3,
     "ratings": [
-      {"name": "1 star", "count": 1020},
-      {"name": "2 star", "count": 1520},
-      {"name": "3 star", "count": 2020},
-      {"name": "4 star", "count": 3020},
-      {"name": "5 star", "count": 5020}
+      { "name": "1 star", "count": 1020 },
+      { "name": "2 star", "count": 1520 },
+      { "name": "3 star", "count": 2020 },
+      { "name": "4 star", "count": 3020 },
+      { "name": "5 star", "count": 5020 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "image": "https://i.ibb.co.com/0VmMcJHZ/Foodie-Hub.png",
     "title": "FoodieHub",
     "companyName": "FoodTech Ltd.",
-    "description": "FoodieHub by FoodTech Ltd. provides amazing features and seamless experience.",
+    "description": "FoodieHub is the ultimate digital destination for every food lover, from home cooks to seasoned gourmets. Discover millions of recipes from global cuisines, with step-by-step video guides and personalized recommendations based on your dietary preferences and pantry items. Create weekly meal plans and generate automated shopping lists that sync with your local grocery stores for easy pickup or delivery. Watch live cooking classes from world-renowned chefs and connect with a community of foodies to share your creations. The app also features a comprehensive restaurant guide, allowing you to explore menus, book tables, and order delivery from the best eateries in your city. Track your culinary journey, save your favorite dishes, and master new cooking techniques. FoodieHub is more than an app; it's your personal chef, nutritionist, and food guide, all designed to inspire your next delicious adventure in the kitchen and beyond, helping you reduce food waste and eat healthier without sacrificing flavor or fun.",
     "size": 17.5,
     "reviews": 611,
     "ratingAvg": 4.2,
     "downloads": 10,
     "ratings": [
-      {"name": "1 star", "count": 1030},
-      {"name": "2 star", "count": 1530},
-      {"name": "3 star", "count": 2030},
-      {"name": "4 star", "count": 3030},
-      {"name": "5 star", "count": 5030}
+      { "name": "1 star", "count": 1030 },
+      { "name": "2 star", "count": 1530 },
+      { "name": "3 star", "count": 2030 },
+      { "name": "4 star", "count": 3030 },
+      { "name": "5 star", "count": 5030 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "image": "https://i.ibb.co.com/XxpV7t9x/FitTrack.png",
     "title": "FitTrack",
     "companyName": "FitLife Co.",
-    "description": "FitTrack by FitLife Co. provides amazing features and seamless experience.",
+    "description": "FitTrack is your comprehensive personal fitness coach, dedicated to helping you achieve your health and wellness goals. It goes beyond simple step counting by offering detailed activity tracking for over 100 different workout types, from running and cycling to yoga and HIIT. The app syncs with your wearable devices to monitor heart rate, sleep patterns, and blood oxygen levels, providing a holistic view of your health. Receive personalized workout and nutrition plans crafted by certified trainers that adapt based on your progress and feedback. Join live fitness classes with real-time feedback or follow guided audio sessions for the gym or home. Log your meals with a massive food database and get detailed macronutrient insights. Connect with friends for motivation, share achievements, and participate in community challenges. FitTrack empowers your journey with data-driven insights and unwavering support, turning fitness aspirations into lasting lifestyle changes and helping you build a stronger, healthier version of yourself every day.",
     "size": 20.0,
     "reviews": 648,
     "ratingAvg": 4.6,
     "downloads": 7,
     "ratings": [
-      {"name": "1 star", "count": 1040},
-      {"name": "2 star", "count": 1540},
-      {"name": "3 star", "count": 2040},
-      {"name": "4 star", "count": 3040},
-      {"name": "5 star", "count": 5040}
+      { "name": "1 star", "count": 1040 },
+      { "name": "2 star", "count": 1540 },
+      { "name": "3 star", "count": 2040 },
+      { "name": "4 star", "count": 3040 },
+      { "name": "5 star", "count": 5040 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "image": "https://i.ibb.co.com/RGPZxDQB/Travel-Mate.png",
     "title": "TravelMate",
     "companyName": "GlobeTrotters",
-    "description": "TravelMate by GlobeTrotters provides amazing features and seamless experience.",
+    "description": "TravelMate is your ultimate intelligent travel companion, designed to transform every trip into a seamless and unforgettable adventure. The app acts as your personal travel agent, offering end-to-end trip planning with smart itinerary builders that optimize your schedule based on interests, weather, and local events. Get real-time flight alerts, gate changes, and baggage claim information. Explore hidden gems and popular attractions with offline maps and curated guides written by local experts. TravelMate simplifies bookings by comparing prices for hotels, rental cars, and experiences across multiple platforms. Manage your budget with a built-in expense tracker that automatically converts currencies. Stay safe with emergency alerts, embassy locations, and phrasebooks for over 50 languages. Share your live location with trusted contacts and access 24/7 travel support. With TravelMate, you can wander off the beaten path with confidence, knowing that every detail of your journey is meticulously organized and accessible in your pocket, making travel smarter and more spontaneous than ever before.",
     "size": 22.5,
     "reviews": 685,
     "ratingAvg": 3.0,
     "downloads": 2,
     "ratings": [
-      {"name": "1 star", "count": 1050},
-      {"name": "2 star", "count": 1550},
-      {"name": "3 star", "count": 2050},
-      {"name": "4 star", "count": 3050},
-      {"name": "5 star", "count": 5050}
+      { "name": "1 star", "count": 1050 },
+      { "name": "2 star", "count": 1550 },
+      { "name": "3 star", "count": 2050 },
+      { "name": "4 star", "count": 3050 },
+      { "name": "5 star", "count": 5050 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "image": "https://i.ibb.co.com/6RQqY2rt/Study-Smart.png",
     "title": "StudySmart",
     "companyName": "EduSpark",
-    "description": "StudySmart by EduSpark provides amazing features and seamless experience.",
+    "description": "StudySmart revolutionizes learning through adaptive technology that personalizes your educational journey. This intelligent platform identifies your knowledge gaps and learning style to create custom study plans that maximize retention and understanding. Utilize AI-powered flashcards that adjust their frequency based on your mastery level, and generate practice tests tailored to your upcoming exams. The app's distraction-free focus mode blocks notifications and tracks productive study sessions. Collaborate with study groups through shared notebooks and virtual whiteboards, making remote learning as effective as in-person sessions. Access a vast library of explanatory videos, interactive diagrams, and summaries for countless subjects. Set achievable goals, track your progress with detailed analytics, and earn badges for milestones. StudySmart supports OCR technology, allowing you to scan handwritten notes and transform them into digital study guides. Whether you're preparing for standardized tests or mastering new skills, StudySmart provides the tools and insights to learn more efficiently and build lasting knowledge with confidence and clarity.",
     "size": 25.0,
     "reviews": 722,
     "ratingAvg": 3.4,
     "downloads": 4,
     "ratings": [
-      {"name": "1 star", "count": 1060},
-      {"name": "2 star", "count": 1560},
-      {"name": "3 star", "count": 2060},
-      {"name": "4 star", "count": 3060},
-      {"name": "5 star", "count": 5060}
+      { "name": "1 star", "count": 1060 },
+      { "name": "2 star", "count": 1560 },
+      { "name": "3 star", "count": 2060 },
+      { "name": "4 star", "count": 3060 },
+      { "name": "5 star", "count": 5060 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "image": "https://i.ibb.co.com/jkpNThYn/Music-Wave.png",
     "title": "MusicWave",
     "companyName": "Wave Studios",
-    "description": "MusicWave by Wave Studios provides amazing features and seamless experience.",
+    "description": "MusicWave delivers an immersive audio experience that goes beyond traditional music streaming. Discover millions of songs, curated playlists, and exclusive releases tailored to your taste through sophisticated algorithms that learn from your listening habits. Create and share your own mixes with professional-grade editing tools, including crossfading, EQ adjustments, and beat-matching. Dive into high-fidelity audio streaming and 3D spatial sound for a concert-like experience. Follow your favorite artists for behind-the-scenes content, live stream performances, and early ticket access. MusicWave's social features let you see what friends are listening to and collaborate on shared playlists. The integrated lyrics display syncs in real-time for instant karaoke sessions. Download your music for offline listening without compromising quality. With personalized daily mixes, mood-based stations, and discovery radios that introduce you to new genres, MusicWave isn't just a music app—it's your personal audio universe, constantly evolving to score every moment of your life with the perfect soundtrack, whether you're working out, relaxing, or hosting a party.",
     "size": 27.5,
     "reviews": 759,
     "ratingAvg": 3.8,
     "downloads": 6,
     "ratings": [
-      {"name": "1 star", "count": 1070},
-      {"name": "2 star", "count": 1570},
-      {"name": "3 star", "count": 2070},
-      {"name": "4 star", "count": 3070},
-      {"name": "5 star", "count": 5070}
+      { "name": "1 star", "count": 1070 },
+      { "name": "2 star", "count": 1570 },
+      { "name": "3 star", "count": 2070 },
+      { "name": "4 star", "count": 3070 },
+      { "name": "5 star", "count": 5070 }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=9",
     "title": "GameZone",
     "companyName": "PlayMax",
-    "description": "GameZone by PlayMax provides amazing features and seamless experience.",
+    "description": "GameZone is the ultimate mobile gaming platform, offering an extensive library of games across every genre imaginable. From intense action RPGs and strategic puzzles to casual arcade classics and immersive multiplayer experiences, GameZone brings console-quality gaming to your fingertips. Enjoy exclusive titles you won't find anywhere else, with new games added weekly. The app's cloud saving feature ensures your progress is secure across all devices. Compete in global tournaments with real-time leaderboards and earn rewards for your achievements. Connect with friends through voice chat, send challenges, and form guilds to conquer cooperative missions. GameZone's subscription service provides ad-free gaming, early access to new releases, and premium content. Optimize your gameplay with performance boosters that enhance frame rates and reduce loading times. Participate in developer Q&A sessions, beta test upcoming games, and influence future updates. Whether you have five minutes or five hours, GameZone delivers captivating entertainment tailored to your schedule, creating a vibrant community where every player can find their next gaming obsession and connect with fellow enthusiasts worldwide.",
     "size": 30.0,
     "reviews": 796,
     "ratingAvg": 4.2,
     "downloads": 9,
     "ratings": [
-      {"name": "1 star", "count": 1080},
-      {"name": "2 star", "count": 1580},
-      {"name": "3 star", "count": 2080},
-      {"name": "4 star", "count": 3080},
-      {"name": "5 star", "count": 5080}
+      { "name": "1 star", "count": 1080 },
+      { "name": "2 star", "count": 1580 },
+      { "name": "3 star", "count": 2080 },
+      { "name": "4 star", "count": 3080 },
+      { "name": "5 star", "count": 5080 }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=10",
     "title": "ShopEasy",
     "companyName": "EasyMart",
-    "description": "ShopEasy by EasyMart provides amazing features and seamless experience.",
+    "description": "ShopEasy revolutionizes your shopping experience by bringing the entire mall to your mobile device. This intelligent shopping assistant compares prices across thousands of online retailers in real-time, ensuring you always get the best deals. Set price alerts for desired products and receive notifications when they drop. Use the visual search feature to snap a photo of any item and find similar products instantly. Create organized shopping lists for different needs—groceries, wardrobe, home goods—and share them with family members. ShopEasy's augmented reality tool lets you visualize how furniture would look in your space before purchasing. The integrated wallet securely stores payment methods and automatically applies available coupons at checkout. Track orders from multiple carriers in one place with delivery predictions. Read and write verified customer reviews, and get personalized recommendations based on your shopping history. With one-click reordering of favorites and scheduled deliveries for routine purchases, ShopEasy saves you time and money while transforming shopping from a chore into an enjoyable, efficient activity tailored perfectly to your lifestyle and preferences.",
     "size": 32.5,
     "reviews": 833,
     "ratingAvg": 4.6,
     "downloads": 1,
     "ratings": [
-      {"name": "1 star", "count": 1090},
-      {"name": "2 star", "count": 1590},
-      {"name": "3 star", "count": 2090},
-      {"name": "4 star", "count": 3090},
-      {"name": "5 star", "count": 5090}
+      { "name": "1 star", "count": 1090 },
+      { "name": "2 star", "count": 1590 },
+      { "name": "3 star", "count": 2090 },
+      { "name": "4 star", "count": 3090 },
+      { "name": "5 star", "count": 5090 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=11",
     "title": "FinancePro",
     "companyName": "FinEdge",
-    "description": "FinancePro by FinEdge provides amazing features and seamless experience.",
+    "description": "FinancePro empowers you to take complete control of your financial life with sophisticated yet intuitive money management tools. Connect all your bank accounts, credit cards, loans, and investments in one secure dashboard for a holistic view of your finances. The app automatically categorizes your transactions, identifies spending patterns, and creates customizable budgets that adapt to your lifestyle. Set financial goals for saving, debt reduction, or major purchases and track your progress with motivational milestones. Receive intelligent alerts for unusual spending, bill reminders, and subscription renewals. FinancePro's investment module analyzes your portfolio, suggests diversifications, and provides market insights from certified financial experts. Plan for retirement with projection tools that account for inflation and life changes. Generate comprehensive reports for tax preparation and expense reimbursement. The app employs bank-level security with biometric authentication and encrypted data storage. With bill negotiation services that can lower your recurring expenses and a credit score simulator that shows how financial decisions impact your rating, FinancePro becomes your personal financial advisor, helping you build wealth and achieve lasting financial freedom through informed decision-making.",
     "size": 35.0,
     "reviews": 870,
     "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {"name": "1 star", "count": 1100},
-      {"name": "2 star", "count": 1600},
-      {"name": "3 star", "count": 2100},
-      {"name": "4 star", "count": 3100},
-      {"name": "5 star", "count": 5100}
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5100 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=12",
     "title": "WeatherNow",
     "companyName": "SkyCast",
-    "description": "WeatherNow by SkyCast provides amazing features and seamless experience.",
+    "description": "WeatherNow delivers hyper-accurate, localized weather forecasts that help you plan your days with confidence. Using advanced meteorological data from multiple sources, the app provides minute-by-minute precipitation forecasts for your exact location, telling you precisely when rain will start or stop. View interactive radar maps with futurecast technology that shows storm movement hours in advance. Receive severe weather alerts with recommended safety actions for hurricanes, tornadoes, floods, and winter storms. Plan outdoor activities with comprehensive data on UV index, air quality, pollen count, and humidity levels. WeatherNow's beautiful, customizable interfaces display exactly the information you need, whether you're a casual user or weather enthusiast. Save frequently visited locations and get forecasts for your commute, vacation spots, or loved ones' cities. The app includes historical weather data and long-range seasonal outlooks for trip planning. With detailed marine forecasts for boaters, aviation weather for pilots, and agricultural weather for farmers, WeatherNow serves specialized needs while remaining accessible to everyone. Its reliable predictions and elegant design make it the definitive weather companion for making informed decisions based on atmospheric conditions.",
     "size": 37.5,
     "reviews": 907,
     "ratingAvg": 3.4,
     "downloads": 5,
     "ratings": [
-      {"name": "1 star", "count": 1110},
-      {"name": "2 star", "count": 1610},
-      {"name": "3 star", "count": 2110},
-      {"name": "4 star", "count": 3110},
-      {"name": "5 star", "count": 5110}
+      { "name": "1 star", "count": 1110 },
+      { "name": "2 star", "count": 1610 },
+      { "name": "3 star", "count": 2110 },
+      { "name": "4 star", "count": 3110 },
+      { "name": "5 star", "count": 5110 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=13",
     "title": "HealthSync",
     "companyName": "MediLink",
-    "description": "HealthSync by MediLink provides amazing features and seamless experience.",
+    "description": "HealthSync serves as your comprehensive digital health assistant, centralizing all your medical information for better healthcare management. Securely store and organize your health records, including lab results, vaccination history, medication lists, and doctor's notes in one encrypted location. Track symptoms over time and identify potential patterns or triggers with intuitive logging tools. Manage multiple medications with smart reminders that alert you when to take doses, when to refill prescriptions, and warn about potential interactions. The app syncs with popular health devices and apps to aggregate data from fitness trackers, smart scales, and blood pressure monitors. Prepare for medical appointments with generated health summaries and question lists for your provider. Access reliable medical information from trusted sources to better understand conditions and treatments. Share specific health data with family members or healthcare professionals through secure portals. In emergencies, first responders can access critical information like allergies, conditions, and emergency contacts. HealthSync transforms how you engage with your health, promoting proactive management through organization, education, and seamless coordination between you and your healthcare team for improved outcomes and peace of mind.",
     "size": 40.0,
     "reviews": 944,
     "ratingAvg": 3.8,
     "downloads": 3,
     "ratings": [
-      {"name": "1 star", "count": 1120},
-      {"name": "2 star", "count": 1620},
-      {"name": "3 star", "count": 2120},
-      {"name": "4 star", "count": 3120},
-      {"name": "5 star", "count": 5120}
+      { "name": "1 star", "count": 1120 },
+      { "name": "2 star", "count": 1620 },
+      { "name": "3 star", "count": 2120 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 5120 }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=14",
     "title": "NewsDaily",
     "companyName": "DailyPost",
-    "description": "NewsDaily by DailyPost provides amazing features and seamless experience.",
+    "description": "NewsDaily delivers a personalized news experience that keeps you informed without overwhelming you. This intelligent news aggregator curates stories from thousands of verified sources worldwide, presenting multiple perspectives on developing stories. The app learns your interests through subtle interactions, gradually refining your news feed to highlight topics that matter most to you. Create custom news briefings for different times of day—a quick morning overview, deeper afternoon analysis, and a relaxing evening recap. Fact-check indicators highlight reliable reporting and flag potentially misleading content. Save articles for offline reading with optimized formatting that removes clutter and distractions. Follow specific storylines as they develop with timeline views that connect related events. NewsDaily's audio feature lets you listen to articles during your commute or workout, with natural-sounding voice synthesis. Share stories with personalized comments through integrated social features. With local news customization, business tracking, sports coverage, and entertainment updates, NewsDaily ensures you're always knowledgeably engaged with current events while maintaining balance through mindfulness reminders and positive news sections that highlight inspiring developments from around the world.",
     "size": 42.5,
     "reviews": 981,
     "ratingAvg": 4.2,
     "downloads": 10,
     "ratings": [
-      {"name": "1 star", "count": 1130},
-      {"name": "2 star", "count": 1630},
-      {"name": "3 star", "count": 2130},
-      {"name": "4 star", "count": 3130},
-      {"name": "5 star", "count": 5130}
+      { "name": "1 star", "count": 1130 },
+      { "name": "2 star", "count": 1630 },
+      { "name": "3 star", "count": 2130 },
+      { "name": "4 star", "count": 3130 },
+      { "name": "5 star", "count": 5130 }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=15",
     "title": "NoteCraft",
     "companyName": "CraftWorks",
-    "description": "NoteCraft by CraftWorks provides amazing features and seamless experience.",
+    "description": "NoteCraft reimagines digital note-taking as a creative and organizational powerhouse that adapts to your thinking process. Capture ideas in any form—typed notes, handwritten sketches, audio recordings, or web clippings—and watch as NoteCraft intelligently connects related content. The app's unique canvas interface lets you arrange notes spatially, creating visual knowledge maps that reveal relationships between concepts. Use tags, notebooks, and advanced search to instantly retrieve any information. Collaborate in real-time on shared documents with version history and commenting features. NoteCraft's handwriting recognition transforms your scribbles into searchable text while preserving the original sketch. The templates library provides structured formats for meeting notes, project plans, academic research, and creative writing. Set reminders for specific notes or entire notebooks to review important information. Export your work in multiple formats or publish directly to blogs and social platforms. With end-to-end encryption, cross-device synchronization, and offline access, NoteCraft becomes an extension of your mind, helping you capture, organize, and develop ideas more effectively than ever before, whether you're a student, professional, or lifelong learner pursuing personal projects.",
     "size": 45.0,
     "reviews": 1018,
     "ratingAvg": 4.6,
     "downloads": 7,
     "ratings": [
-      {"name": "1 star", "count": 1140},
-      {"name": "2 star", "count": 1640},
-      {"name": "3 star", "count": 2140},
-      {"name": "4 star", "count": 3140},
-      {"name": "5 star", "count": 5140}
+      { "name": "1 star", "count": 1140 },
+      { "name": "2 star", "count": 1640 },
+      { "name": "3 star", "count": 2140 },
+      { "name": "4 star", "count": 3140 },
+      { "name": "5 star", "count": 5140 }
     ]
   },
   {
@@ -274,17 +274,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=16",
     "title": "RideGo",
     "companyName": "RideShare",
-    "description": "RideGo by RideShare provides amazing features and seamless experience.",
+    "description": "RideGo transforms urban mobility by connecting you with the most efficient transportation options in real-time. Compare ride-sharing services, taxis, public transit, bike-shares, and scooter rentals in one integrated platform to find the fastest, most affordable, or most eco-friendly route. The app provides accurate ETAs and upfront pricing across all services, eliminating surprise surge pricing. Book and pay for any transportation method without switching between multiple apps. Save favorite routes and destinations for one-tap commuting. RideGo's trip planner combines different modes of transport—like biking to a train station then taking a rideshare to your final destination—for seamless multi-modal journeys. Share your trip progress with friends and family for safety. The app learns your travel patterns and suggests optimal departure times to avoid traffic. Earn rewards for choosing green transportation options and participating in carpool matches. With accessibility filters for wheelchair-accessible vehicles, family-friendly options with car seats, and premium services for business travel, RideGo caters to diverse needs while simplifying how you navigate your city, saving time, money, and reducing transportation stress.",
     "size": 47.5,
     "reviews": 1055,
     "ratingAvg": 3.0,
     "downloads": 2,
     "ratings": [
-      {"name": "1 star", "count": 1150},
-      {"name": "2 star", "count": 1650},
-      {"name": "3 star", "count": 2150},
-      {"name": "4 star", "count": 3150},
-      {"name": "5 star", "count": 5150}
+      { "name": "1 star", "count": 1150 },
+      { "name": "2 star", "count": 1650 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 5150 }
     ]
   },
   {
@@ -292,17 +292,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=17",
     "title": "MovieBox",
     "companyName": "CineWorld",
-    "description": "MovieBox by CineWorld provides amazing features and seamless experience.",
+    "description": "MovieBox is your ultimate entertainment hub for discovering, tracking, and enjoying movies and TV shows across all streaming platforms. This comprehensive guide aggregates content from Netflix, Hulu, Disney+, HBO Max, and dozens more services, telling you exactly where to watch any title. Create personalized watchlists, rate what you've seen, and get smart recommendations based on your taste and viewing history. Browse curated collections by mood, genre, or theme, and follow specific directors, actors, or writers to never miss their new projects. MovieBox's social features let you see what friends are watching, share reviews, and create group watch parties with synchronized viewing and chat. The app tracks release dates for upcoming movies and notifies you when they become available to stream. Read critic reviews and audience ratings side-by-side, and access trivia, goofs, and behind-the-scenes facts. With offline functionality for your watchlist, parental controls for family viewing, and integration with your calendar to schedule movie nights, MovieBox simplifies entertainment decisions and enhances your viewing experience, ensuring you always have the perfect thing to watch.",
     "size": 50.0,
     "reviews": 1092,
     "ratingAvg": 3.4,
     "downloads": 4,
     "ratings": [
-      {"name": "1 star", "count": 1160},
-      {"name": "2 star", "count": 1660},
-      {"name": "3 star", "count": 2160},
-      {"name": "4 star", "count": 3160},
-      {"name": "5 star", "count": 5160}
+      { "name": "1 star", "count": 1160 },
+      { "name": "2 star", "count": 1660 },
+      { "name": "3 star", "count": 2160 },
+      { "name": "4 star", "count": 3160 },
+      { "name": "5 star", "count": 5160 }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=18",
     "title": "Learnify",
     "companyName": "BrightMind",
-    "description": "Learnify by BrightMind provides amazing features and seamless experience.",
+    "description": "Learnify makes skill acquisition accessible and engaging through micro-learning experiences designed for modern lifestyles. Choose from thousands of bite-sized courses across categories like business, technology, creative arts, languages, and personal development. Each lesson is optimized for retention with interactive exercises, quick assessments, and practical projects. The app's adaptive learning path adjusts difficulty based on your performance, ensuring continuous challenge without frustration. Practice speaking new languages with AI-powered conversation partners that provide instant feedback on pronunciation. Code in an integrated development environment with real-time error checking. Learnify's project-based approach lets you build a portfolio of work as you develop skills. Join specialized learning communities for peer support and mentor guidance. Earn verifiable certificates and badges to showcase your achievements on professional networks. The app tracks your learning streaks and motivates you with milestones and rewards. With offline downloads for learning on the go, personalized course recommendations, and collaborative group challenges, Learnify transforms idle moments into productive learning opportunities, helping you systematically develop valuable skills that advance your career and enrich your personal life through consistent, manageable daily progress.",
     "size": 52.5,
     "reviews": 1129,
     "ratingAvg": 3.8,
     "downloads": 6,
     "ratings": [
-      {"name": "1 star", "count": 1170},
-      {"name": "2 star", "count": 1670},
-      {"name": "3 star", "count": 2170},
-      {"name": "4 star", "count": 3170},
-      {"name": "5 star", "count": 5170}
+      { "name": "1 star", "count": 1170 },
+      { "name": "2 star", "count": 1670 },
+      { "name": "3 star", "count": 2170 },
+      { "name": "4 star", "count": 3170 },
+      { "name": "5 star", "count": 5170 }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=19",
     "title": "WorkHive",
     "companyName": "HiveTech",
-    "description": "WorkHive by HiveTech provides amazing features and seamless experience.",
+    "description": "WorkHive streamlines team collaboration and project management with an intuitive platform that centralizes communication, tasks, and files. Create dedicated workspaces for different projects with customizable channels for specific topics, departments, or client work. Assign tasks with clear deadlines, priorities, and dependencies, and visualize project timelines with interactive Gantt charts. WorkHive's document collaboration allows multiple team members to edit files simultaneously with version control and commenting. Integrate with popular tools like Google Drive, Slack, and Trello to create a unified workflow. Track time spent on projects with automated timesheets and generate detailed reports on team productivity. Conduct virtual meetings with HD video, screen sharing, and collaborative whiteboards. Make decisions faster with polling features and approval workflows. The smart notification system prioritizes alerts based on relevance to reduce distractions. WorkHive's analytics provide insights into team performance, project health, and resource allocation. With enterprise-grade security, guest access for clients, and mobile optimization for remote teams, WorkHive creates a digital headquarters that keeps distributed teams aligned, engaged, and productive regardless of their physical location.",
     "size": 55.0,
     "reviews": 1166,
     "ratingAvg": 4.2,
     "downloads": 9,
     "ratings": [
-      {"name": "1 star", "count": 1180},
-      {"name": "2 star", "count": 1680},
-      {"name": "3 star", "count": 2180},
-      {"name": "4 star", "count": 3180},
-      {"name": "5 star", "count": 5180}
+      { "name": "1 star", "count": 1180 },
+      { "name": "2 star", "count": 1680 },
+      { "name": "3 star", "count": 2180 },
+      { "name": "4 star", "count": 3180 },
+      { "name": "5 star", "count": 5180 }
     ]
   },
   {
@@ -346,17 +346,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=20",
     "title": "RecipeMaster",
     "companyName": "KitchenPro",
-    "description": "RecipeMaster by KitchenPro provides amazing features and seamless experience.",
+    "description": "RecipeMaster transforms your cooking experience with intelligent features that adapt to your kitchen, schedule, and dietary needs. Access a constantly updated database of millions of recipes with step-by-step guided cooking mode that speaks instructions while keeping your screen active. Use what's in your pantry with the ingredient scanner that suggests recipes based on available items, reducing food waste. Create personalized meal plans that automatically generate shopping lists organized by grocery store sections. Adjust serving sizes with one tap, and the app recalculates all ingredient quantities automatically. Watch integrated video tutorials for tricky techniques from professional chefs. Track nutritional information for every dish and set dietary preferences for gluten-free, vegan, low-carb, or other specific needs. Save family favorites with notes and ratings, and share recipe collections with friends. RecipeMaster's smart timers manage multiple dishes simultaneously, alerting you when each component needs attention. The app learns your taste preferences and cooking habits, suggesting new recipes you'll love while accounting for your available time and skill level. From quick weekday dinners to impressive weekend feasts, RecipeMaster builds your culinary confidence and makes every meal a success.",
     "size": 57.5,
     "reviews": 1203,
     "ratingAvg": 4.6,
     "downloads": 1,
     "ratings": [
-      {"name": "1 star", "count": 1190},
-      {"name": "2 star", "count": 1690},
-      {"name": "3 star", "count": 2190},
-      {"name": "4 star", "count": 3190},
-      {"name": "5 star", "count": 5190}
+      { "name": "1 star", "count": 1190 },
+      { "name": "2 star", "count": 1690 },
+      { "name": "3 star", "count": 2190 },
+      { "name": "4 star", "count": 3190 },
+      { "name": "5 star", "count": 5190 }
     ]
   },
   {
@@ -364,17 +364,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=21",
     "title": "DocScan",
     "companyName": "ScanWorks",
-    "description": "DocScan by ScanWorks provides amazing features and seamless experience.",
+    "description": "DocScan turns your smartphone into a powerful portable scanner and document management system. Capture crystal-clear scans of documents, receipts, whiteboards, and business cards using advanced edge detection and perspective correction technology. The app automatically enhances image quality, removing shadows, correcting colors, and sharpening text for professional results. Organize scans into searchable folders with custom tags and annotations. DocScan's OCR (Optical Character Recognition) technology extracts text from any document, making content searchable and editable. Convert scans to PDF, JPEG, or text files with customizable compression settings. Auto-upload scans to cloud services like Google Drive, Dropbox, or iCloud for secure backup and access across devices. Create multi-page documents by combining multiple scans, and add digital signatures to important paperwork. Set up automated workflows to process recurring document types—like expense reports that extract amounts and dates from receipts. With batch scanning mode, password protection for sensitive documents, and collaboration features for team document review, DocScan eliminates paperwork clutter while providing enterprise-level document digitization that saves time, space, and resources for students, professionals, and home users alike.",
     "size": 10.0,
     "reviews": 1240,
     "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {"name": "1 star", "count": 1200},
-      {"name": "2 star", "count": 1700},
-      {"name": "3 star", "count": 2200},
-      {"name": "4 star", "count": 3200},
-      {"name": "5 star", "count": 5200}
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5200 }
     ]
   },
   {
@@ -382,17 +382,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=22",
     "title": "Artify",
     "companyName": "CreativeHub",
-    "description": "Artify by CreativeHub provides amazing features and seamless experience.",
+    "description": "Artify unleashes your inner artist with a comprehensive digital art studio packed with professional tools and intuitive features. Create stunning artwork using customizable brushes that mimic real media—from watercolor and oil paints to charcoal and airbrushing—with adjustable texture, flow, and blending capabilities. Work with unlimited layers, layer masks, and blending modes for complex compositions. The app supports pressure-sensitive styluses for natural drawing experiences and includes palm rejection for comfortable creation. Access a vast color wheel with advanced palettes, gradients, and color harmony tools. Artify's symmetry tools, perspective guides, and rulers help maintain proportion and accuracy. Transform photos into paintings with AI-powered filters that analyze artistic styles. Learn with built-in tutorials covering fundamental techniques to advanced digital painting methods. Export your work in multiple formats at high resolutions suitable for printing or professional portfolios. Join creative challenges and share your artwork in the Artify community for feedback and inspiration. With regular content updates featuring new brushes, textures, and features, Artify provides an endlessly expanding creative toolkit that makes digital art accessible to beginners while offering the sophistication demanded by professional illustrators, designers, and concept artists.",
     "size": 12.5,
     "reviews": 1277,
     "ratingAvg": 3.4,
     "downloads": 5,
     "ratings": [
-      {"name": "1 star", "count": 1210},
-      {"name": "2 star", "count": 1710},
-      {"name": "3 star", "count": 2210},
-      {"name": "4 star", "count": 3210},
-      {"name": "5 star", "count": 5210}
+      { "name": "1 star", "count": 1210 },
+      { "name": "2 star", "count": 1710 },
+      { "name": "3 star", "count": 2210 },
+      { "name": "4 star", "count": 3210 },
+      { "name": "5 star", "count": 5210 }
     ]
   },
   {
@@ -400,17 +400,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=23",
     "title": "LangBridge",
     "companyName": "LinguaTech",
-    "description": "LangBridge by LinguaTech provides amazing features and seamless experience.",
+    "description": "LangBridge makes language learning an immersive, conversational experience that adapts to your goals and schedule. Practice speaking with AI-powered tutors that provide instant feedback on pronunciation, grammar, and fluency through sophisticated speech recognition. Engage in realistic dialogues simulating everyday situations like ordering food, navigating transportation, or business meetings. The app's adaptive curriculum identifies your weaknesses and strengths, focusing practice where you need it most. Learn vocabulary in context with image associations, example sentences, and native speaker audio. LangBridge's cultural lessons provide essential context about customs, etiquette, and regional variations. Track your progress with detailed metrics and celebrate milestones as you advance through proficiency levels. Join live practice sessions with other learners worldwide for authentic conversation experience. The app works offline for learning on the go, and syncs your progress across devices. With specialized courses for business, travel, academic, and exam preparation, plus a library of authentic media content like news articles and song lyrics, LangBridge creates a comprehensive language acquisition environment that builds practical communication skills and cultural understanding for over 25 languages, making fluency an achievable reality.",
     "size": 15.0,
     "reviews": 1314,
     "ratingAvg": 3.8,
     "downloads": 3,
     "ratings": [
-      {"name": "1 star", "count": 1220},
-      {"name": "2 star", "count": 1720},
-      {"name": "3 star", "count": 2220},
-      {"name": "4 star", "count": 3220},
-      {"name": "5 star", "count": 5220}
+      { "name": "1 star", "count": 1220 },
+      { "name": "2 star", "count": 1720 },
+      { "name": "3 star", "count": 2220 },
+      { "name": "4 star", "count": 3220 },
+      { "name": "5 star", "count": 5220 }
     ]
   },
   {
@@ -418,17 +418,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=24",
     "title": "BookNest",
     "companyName": "BookVerse",
-    "description": "BookNest by BookVerse provides amazing features and seamless experience.",
+    "description": "BookNest creates your personal digital library and literary community in one beautifully designed application. Discover your next great read through personalized recommendations based on your reading history, favorite genres, and mood. Access millions of eBooks and audiobooks through partnerships with major publishers and libraries. Track your reading progress with statistics about your pace, preferred genres, and most productive reading times. Join reading challenges, create and share book lists, and participate in virtual book clubs with discussion guides and author Q&As. BookNest's advanced e-reader features include customizable fonts, themes, margin settings, and integrated dictionary and translation tools. Highlight passages and make notes that sync across devices, and export them for study or reference. The app's social features let you see what friends are reading, share reviews, and recommend books to each other. Set reading goals and receive reminders to maintain your habit. With seamless switching between reading and listening, offline access to your library, and integration with Goodreads and StoryGraph, BookNest becomes your comprehensive reading companion that nurtures your literary journey while connecting you with a global community of book lovers who share your passion for stories and knowledge.",
     "size": 17.5,
     "reviews": 1351,
     "ratingAvg": 4.2,
     "downloads": 10,
     "ratings": [
-      {"name": "1 star", "count": 1230},
-      {"name": "2 star", "count": 1730},
-      {"name": "3 star", "count": 2230},
-      {"name": "4 star", "count": 3230},
-      {"name": "5 star", "count": 5230}
+      { "name": "1 star", "count": 1230 },
+      { "name": "2 star", "count": 1730 },
+      { "name": "3 star", "count": 2230 },
+      { "name": "4 star", "count": 3230 },
+      { "name": "5 star", "count": 5230 }
     ]
   },
   {
@@ -436,17 +436,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=25",
     "title": "PlanIt",
     "companyName": "PlanPro",
-    "description": "PlanIt by PlanPro provides amazing features and seamless experience.",
+    "description": "PlanIt is your intelligent life organization platform that brings harmony to your schedule, goals, and daily routines. The app seamlessly integrates your calendar, tasks, and habits into a unified system that adapts to your priorities. PlanIt's smart scheduling feature automatically finds optimal times for tasks based on your energy levels, existing commitments, and location. Set goals with actionable steps and track progress with motivational milestones. The habit tracker helps build positive routines with reminders, streaks, and analytics on your consistency. PlanIt's focus mode minimizes distractions during important work blocks, while the balance feature ensures you allocate time for relationships, self-care, and hobbies. Generate insightful reports on how you spend your time with recommendations for improvement. Share calendars and collaborate on projects with family members or team members with appropriate privacy controls. The app includes templates for common projects like vacation planning, home renovation, or career development. With natural language input for quick entry, cross-platform synchronization, and integration with popular productivity tools, PlanIt reduces the cognitive load of managing your life, giving you more mental space for what truly matters while ensuring nothing falls through the cracks.",
     "size": 20.0,
     "reviews": 1388,
     "ratingAvg": 4.6,
     "downloads": 7,
     "ratings": [
-      {"name": "1 star", "count": 1240},
-      {"name": "2 star", "count": 1740},
-      {"name": "3 star", "count": 2240},
-      {"name": "4 star", "count": 3240},
-      {"name": "5 star", "count": 5240}
+      { "name": "1 star", "count": 1240 },
+      { "name": "2 star", "count": 1740 },
+      { "name": "3 star", "count": 2240 },
+      { "name": "4 star", "count": 3240 },
+      { "name": "5 star", "count": 5240 }
     ]
   },
   {
@@ -454,17 +454,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=26",
     "title": "SkillUp",
     "companyName": "SkillForge",
-    "description": "SkillUp by SkillForge provides amazing features and seamless experience.",
+    "description": "SkillUp provides targeted micro-courses designed to develop specific professional competencies that advance your career. Each skill path consists of bite-sized lessons, practical exercises, and real-world projects that build demonstrable expertise. Choose from high-demand areas like data analysis, digital marketing, project management, coding languages, or leadership development. The app's assessment tools identify your current skill level and knowledge gaps to create a personalized learning journey. Practice new skills in simulated work environments with instant feedback on your performance. Build a professional portfolio of completed projects to showcase to employers. SkillUp's mentorship program connects you with industry experts for guidance and career advice. Participate in collaborative challenges with peers to solve business problems and build teamwork experience. Earn verifiable certificates and digital badges that you can add to LinkedIn and resumes. The app tracks industry trends to ensure course content remains relevant to current job market demands. With offline access, learning reminders, and progress analytics, SkillUp makes professional development an integrated part of your routine, systematically building the capabilities that lead to promotions, career changes, or entrepreneurial success in today's rapidly evolving workplace.",
     "size": 22.5,
     "reviews": 1425,
     "ratingAvg": 3.0,
     "downloads": 2,
     "ratings": [
-      {"name": "1 star", "count": 1250},
-      {"name": "2 star", "count": 1750},
-      {"name": "3 star", "count": 2250},
-      {"name": "4 star", "count": 3250},
-      {"name": "5 star", "count": 5250}
+      { "name": "1 star", "count": 1250 },
+      { "name": "2 star", "count": 1750 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 3250 },
+      { "name": "5 star", "count": 5250 }
     ]
   },
   {
@@ -472,17 +472,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=27",
     "title": "CryptoWatch",
     "companyName": "CryptoEdge",
-    "description": "CryptoWatch by CryptoEdge provides amazing features and seamless experience.",
+    "description": "CryptoWatch delivers comprehensive cryptocurrency market intelligence and portfolio management in one powerful application. Track thousands of cryptocurrencies across multiple exchanges with real-time price alerts, volume analysis, and market cap rankings. Create customized watchlists for different investment strategies and receive notifications for significant price movements, exchange listings, or regulatory news. CryptoWatch's advanced charting tools include technical indicators, drawing capabilities, and pattern recognition to inform your trading decisions. The app aggregates news from hundreds of sources, using sentiment analysis to gauge market mood. Manage your portfolio across different wallets and exchanges with automatic transaction importing or manual entry. Generate tax reports with capital gains calculations specific to your country's regulations. Set up recurring investments and price-target alerts for automated trading strategies. Access educational content about blockchain technology, investment strategies, and security best practices. The security center monitors your connected accounts for suspicious activity and provides cold storage recommendations. With multi-exchange trading capabilities, dark mode for extended viewing, and institutional-grade data accuracy, CryptoWatch serves both novice investors learning the space and experienced traders executing sophisticated strategies in the dynamic world of digital assets.",
     "size": 25.0,
     "reviews": 1462,
     "ratingAvg": 3.4,
     "downloads": 4,
     "ratings": [
-      {"name": "1 star", "count": 1260},
-      {"name": "2 star", "count": 1760},
-      {"name": "3 star", "count": 2260},
-      {"name": "4 star", "count": 3260},
-      {"name": "5 star", "count": 5260}
+      { "name": "1 star", "count": 1260 },
+      { "name": "2 star", "count": 1760 },
+      { "name": "3 star", "count": 2260 },
+      { "name": "4 star", "count": 3260 },
+      { "name": "5 star", "count": 5260 }
     ]
   },
   {
@@ -490,17 +490,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=28",
     "title": "MindCalm",
     "companyName": "MindWell",
-    "description": "MindCalm by MindWell provides amazing features and seamless experience.",
+    "description": "MindCalm is your personalized meditation and mental wellness companion designed to reduce stress and enhance emotional resilience. Begin with an assessment that evaluates your stress levels, sleep quality, and mindfulness experience to create a tailored program. Choose from hundreds of guided meditations ranging from 1-minute quick resets to 30-minute deep sessions, organized by goal—sleep, focus, anxiety, or relationships. The app's biofeedback integration works with your wearable device to suggest meditations based on your real-time heart rate variability. Wind down with sleep stories narrated by soothing voices, accompanied by ambient soundscapes. Track your mood patterns and identify triggers through journaling prompts and reflection exercises. MindCalm's breathing exercises include visual guides and haptic feedback to establish rhythmic patterns that calm your nervous system. Progress through structured courses that build mindfulness skills progressively. Join live group meditation sessions for collective energy and guidance. The app provides mindful reminders throughout your day to pause and reset, plus integration with calendar apps to schedule wellness breaks. With scientifically-backed techniques, progress analytics, and a non-judgmental approach, MindCalm supports your mental health journey, helping you cultivate presence, patience, and perspective in daily life.",
     "size": 27.5,
     "reviews": 1499,
     "ratingAvg": 3.8,
     "downloads": 6,
     "ratings": [
-      {"name": "1 star", "count": 1270},
-      {"name": "2 star", "count": 1770},
-      {"name": "3 star", "count": 2270},
-      {"name": "4 star", "count": 3270},
-      {"name": "5 star", "count": 5270}
+      { "name": "1 star", "count": 1270 },
+      { "name": "2 star", "count": 1770 },
+      { "name": "3 star", "count": 2270 },
+      { "name": "4 star", "count": 3270 },
+      { "name": "5 star", "count": 5270 }
     ]
   },
   {
@@ -508,17 +508,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=29",
     "title": "Evently",
     "companyName": "EventPro",
-    "description": "Evently by EventPro provides amazing features and seamless experience.",
+    "description": "Evently streamlines every aspect of event planning, from intimate gatherings to large conferences, with powerful tools that coordinate details and engage attendees. Create beautiful event pages with customizable templates, integrated ticketing, and secure payment processing. Manage guest lists with RSVP tracking, meal preference collection, and table arrangement tools. Evently's budget planner tracks expenses in real-time with alerts when approaching limits. The integrated vendor management system helps you find, compare, and communicate with venues, caterers, photographers, and other professionals. Create detailed timelines and checklists that ensure nothing is overlooked. Engage attendees before, during, and after your event with announcement feeds, photo sharing, and interactive schedules. During the event, use features like live polling, Q&A sessions, and networking facilitation to enhance participation. Generate post-event analytics on attendance, engagement, and satisfaction. Evently's mobile check-in system speeds registration while capturing important attendee data. With team collaboration features, contract storage, and weather contingency planning, Evently reduces the stress of event coordination while maximizing impact and creating memorable experiences that run smoothly from initial concept to post-event follow-up, whether you're planning professional conferences, weddings, or community fundraisers.",
     "size": 30.0,
     "reviews": 1536,
     "ratingAvg": 4.2,
     "downloads": 9,
     "ratings": [
-      {"name": "1 star", "count": 1280},
-      {"name": "2 star", "count": 1780},
-      {"name": "3 star", "count": 2280},
-      {"name": "4 star", "count": 3280},
-      {"name": "5 star", "count": 5280}
+      { "name": "1 star", "count": 1280 },
+      { "name": "2 star", "count": 1780 },
+      { "name": "3 star", "count": 2280 },
+      { "name": "4 star", "count": 3280 },
+      { "name": "5 star", "count": 5280 }
     ]
   },
   {
@@ -526,377 +526,17 @@
     "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=30",
     "title": "QuizArena",
     "companyName": "QuizMaster",
-    "description": "QuizArena by QuizMaster provides amazing features and seamless experience.",
+    "description": "QuizArena transforms learning and trivia into an engaging social competition that makes knowledge acquisition fun and addictive. Choose from thousands of quiz categories including science, history, pop culture, sports, and specialized topics, or create your own custom quizzes with multimedia questions. Challenge friends to head-to-head matches or join public tournaments with players worldwide. QuizArena's adaptive difficulty adjusts questions based on your performance to maintain the perfect challenge level. Earn experience points, unlock achievements, and climb leaderboards as you demonstrate your expertise. The app's learning mode explains correct answers with detailed information when you make mistakes, turning every game into an educational opportunity. Create private quiz clubs for classrooms, workplaces, or friend groups with custom competitions and discussions. Participate in live trivia events with hosts and real-time scoring. QuizArena's question generator helps educators create assessments quickly, while its analytics identify knowledge gaps for targeted study. With audio rounds, image-based questions, and rapid-fire challenges, the app offers varied gameplay that keeps the experience fresh. Whether you're a casual player looking to pass time or a serious learner reinforcing knowledge, QuizArena makes the pursuit of information social, competitive, and endlessly entertaining.",
     "size": 32.5,
     "reviews": 1573,
     "ratingAvg": 4.6,
     "downloads": 1,
     "ratings": [
-      {"name": "1 star", "count": 1290},
-      {"name": "2 star", "count": 1790},
-      {"name": "3 star", "count": 2290},
-      {"name": "4 star", "count": 3290},
-      {"name": "5 star", "count": 5290}
-    ]
-  },
-  {
-    "id": 31,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=31",
-    "title": "GardenPro",
-    "companyName": "GreenTech",
-    "description": "GardenPro by GreenTech provides amazing features and seamless experience.",
-    "size": 35.0,
-    "reviews": 1610,
-    "ratingAvg": 3.0,
-    "downloads": 8,
-    "ratings": [
-      {"name": "1 star", "count": 1300},
-      {"name": "2 star", "count": 1800},
-      {"name": "3 star", "count": 2300},
-      {"name": "4 star", "count": 3300},
-      {"name": "5 star", "count": 5300}
-    ]
-  },
-  {
-    "id": 32,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=32",
-    "title": "CodeBase",
-    "companyName": "DevCore",
-    "description": "CodeBase by DevCore provides amazing features and seamless experience.",
-    "size": 37.5,
-    "reviews": 1647,
-    "ratingAvg": 3.4,
-    "downloads": 5,
-    "ratings": [
-      {"name": "1 star", "count": 1310},
-      {"name": "2 star", "count": 1810},
-      {"name": "3 star", "count": 2310},
-      {"name": "4 star", "count": 3310},
-      {"name": "5 star", "count": 5310}
-    ]
-  },
-  {
-    "id": 33,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=33",
-    "title": "VoiceNote",
-    "companyName": "NoteWave",
-    "description": "VoiceNote by NoteWave provides amazing features and seamless experience.",
-    "size": 40.0,
-    "reviews": 1684,
-    "ratingAvg": 3.8,
-    "downloads": 3,
-    "ratings": [
-      {"name": "1 star", "count": 1320},
-      {"name": "2 star", "count": 1820},
-      {"name": "3 star", "count": 2320},
-      {"name": "4 star", "count": 3320},
-      {"name": "5 star", "count": 5320}
-    ]
-  },
-  {
-    "id": 34,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=34",
-    "title": "Trendify",
-    "companyName": "TrendLabs",
-    "description": "Trendify by TrendLabs provides amazing features and seamless experience.",
-    "size": 42.5,
-    "reviews": 1721,
-    "ratingAvg": 4.2,
-    "downloads": 10,
-    "ratings": [
-      {"name": "1 star", "count": 1330},
-      {"name": "2 star", "count": 1830},
-      {"name": "3 star", "count": 2330},
-      {"name": "4 star", "count": 3330},
-      {"name": "5 star", "count": 5330}
-    ]
-  },
-  {
-    "id": 35,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=35",
-    "title": "PetCare",
-    "companyName": "PetWorld",
-    "description": "PetCare by PetWorld provides amazing features and seamless experience.",
-    "size": 45.0,
-    "reviews": 1758,
-    "ratingAvg": 4.6,
-    "downloads": 7,
-    "ratings": [
-      {"name": "1 star", "count": 1340},
-      {"name": "2 star", "count": 1840},
-      {"name": "3 star", "count": 2340},
-      {"name": "4 star", "count": 3340},
-      {"name": "5 star", "count": 5340}
-    ]
-  },
-  {
-    "id": 36,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=36",
-    "title": "VisionCam",
-    "companyName": "Visionary Inc.",
-    "description": "VisionCam by Visionary Inc. provides amazing features and seamless experience.",
-    "size": 47.5,
-    "reviews": 1795,
-    "ratingAvg": 3.0,
-    "downloads": 2,
-    "ratings": [
-      {"name": "1 star", "count": 1350},
-      {"name": "2 star", "count": 1850},
-      {"name": "3 star", "count": 2350},
-      {"name": "4 star", "count": 3350},
-      {"name": "5 star", "count": 5350}
-    ]
-  },
-  {
-    "id": 37,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=37",
-    "title": "SmartHome",
-    "companyName": "HomeLink",
-    "description": "SmartHome by HomeLink provides amazing features and seamless experience.",
-    "size": 50.0,
-    "reviews": 1832,
-    "ratingAvg": 3.4,
-    "downloads": 4,
-    "ratings": [
-      {"name": "1 star", "count": 1360},
-      {"name": "2 star", "count": 1860},
-      {"name": "3 star", "count": 2360},
-      {"name": "4 star", "count": 3360},
-      {"name": "5 star", "count": 5360}
-    ]
-  },
-  {
-    "id": 38,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=38",
-    "title": "EduTrack",
-    "companyName": "EduCore",
-    "description": "EduTrack by EduCore provides amazing features and seamless experience.",
-    "size": 52.5,
-    "reviews": 1869,
-    "ratingAvg": 3.8,
-    "downloads": 6,
-    "ratings": [
-      {"name": "1 star", "count": 1370},
-      {"name": "2 star", "count": 1870},
-      {"name": "3 star", "count": 2370},
-      {"name": "4 star", "count": 3370},
-      {"name": "5 star", "count": 5370}
-    ]
-  },
-  {
-    "id": 39,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=39",
-    "title": "StockWise",
-    "companyName": "StockEdge",
-    "description": "StockWise by StockEdge provides amazing features and seamless experience.",
-    "size": 55.0,
-    "reviews": 1906,
-    "ratingAvg": 4.2,
-    "downloads": 9,
-    "ratings": [
-      {"name": "1 star", "count": 1380},
-      {"name": "2 star", "count": 1880},
-      {"name": "3 star", "count": 2380},
-      {"name": "4 star", "count": 3380},
-      {"name": "5 star", "count": 5380}
-    ]
-  },
-  {
-    "id": 40,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=40",
-    "title": "InspireMe",
-    "companyName": "InspireTech",
-    "description": "InspireMe by InspireTech provides amazing features and seamless experience.",
-    "size": 57.5,
-    "reviews": 1943,
-    "ratingAvg": 4.6,
-    "downloads": 1,
-    "ratings": [
-      {"name": "1 star", "count": 1390},
-      {"name": "2 star", "count": 1890},
-      {"name": "3 star", "count": 2390},
-      {"name": "4 star", "count": 3390},
-      {"name": "5 star", "count": 5390}
-    ]
-  },
-  {
-    "id": 41,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=41",
-    "title": "DealFinder",
-    "companyName": "DealPro",
-    "description": "DealFinder by DealPro provides amazing features and seamless experience.",
-    "size": 10.0,
-    "reviews": 1980,
-    "ratingAvg": 3.0,
-    "downloads": 8,
-    "ratings": [
-      {"name": "1 star", "count": 1400},
-      {"name": "2 star", "count": 1900},
-      {"name": "3 star", "count": 2400},
-      {"name": "4 star", "count": 3400},
-      {"name": "5 star", "count": 5400}
-    ]
-  },
-  {
-    "id": 42,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=42",
-    "title": "CraftZone",
-    "companyName": "MakerHub",
-    "description": "CraftZone by MakerHub provides amazing features and seamless experience.",
-    "size": 12.5,
-    "reviews": 2017,
-    "ratingAvg": 3.4,
-    "downloads": 5,
-    "ratings": [
-      {"name": "1 star", "count": 1410},
-      {"name": "2 star", "count": 1910},
-      {"name": "3 star", "count": 2410},
-      {"name": "4 star", "count": 3410},
-      {"name": "5 star", "count": 5410}
-    ]
-  },
-  {
-    "id": 43,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=43",
-    "title": "PlayTune",
-    "companyName": "SoundWave",
-    "description": "PlayTune by SoundWave provides amazing features and seamless experience.",
-    "size": 15.0,
-    "reviews": 2054,
-    "ratingAvg": 3.8,
-    "downloads": 3,
-    "ratings": [
-      {"name": "1 star", "count": 1420},
-      {"name": "2 star", "count": 1920},
-      {"name": "3 star", "count": 2420},
-      {"name": "4 star", "count": 3420},
-      {"name": "5 star", "count": 5420}
-    ]
-  },
-  {
-    "id": 44,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=44",
-    "title": "FlashLearn",
-    "companyName": "FlashEdu",
-    "description": "FlashLearn by FlashEdu provides amazing features and seamless experience.",
-    "size": 17.5,
-    "reviews": 2091,
-    "ratingAvg": 4.2,
-    "downloads": 10,
-    "ratings": [
-      {"name": "1 star", "count": 1430},
-      {"name": "2 star", "count": 1930},
-      {"name": "3 star", "count": 2430},
-      {"name": "4 star", "count": 3430},
-      {"name": "5 star", "count": 5430}
-    ]
-  },
-  {
-    "id": 45,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=45",
-    "title": "StyleMe",
-    "companyName": "StyleWorks",
-    "description": "StyleMe by StyleWorks provides amazing features and seamless experience.",
-    "size": 20.0,
-    "reviews": 2128,
-    "ratingAvg": 4.6,
-    "downloads": 7,
-    "ratings": [
-      {"name": "1 star", "count": 1440},
-      {"name": "2 star", "count": 1940},
-      {"name": "3 star", "count": 2440},
-      {"name": "4 star", "count": 3440},
-      {"name": "5 star", "count": 5440}
-    ]
-  },
-  {
-    "id": 46,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=46",
-    "title": "ZenTimer",
-    "companyName": "ZenTech",
-    "description": "ZenTimer by ZenTech provides amazing features and seamless experience.",
-    "size": 22.5,
-    "reviews": 2165,
-    "ratingAvg": 3.0,
-    "downloads": 2,
-    "ratings": [
-      {"name": "1 star", "count": 1450},
-      {"name": "2 star", "count": 1950},
-      {"name": "3 star", "count": 2450},
-      {"name": "4 star", "count": 3450},
-      {"name": "5 star", "count": 5450}
-    ]
-  },
-  {
-    "id": 47,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=47",
-    "title": "QuickScan",
-    "companyName": "ScanPro",
-    "description": "QuickScan by ScanPro provides amazing features and seamless experience.",
-    "size": 25.0,
-    "reviews": 2202,
-    "ratingAvg": 3.4,
-    "downloads": 4,
-    "ratings": [
-      {"name": "1 star", "count": 1460},
-      {"name": "2 star", "count": 1960},
-      {"name": "3 star", "count": 2460},
-      {"name": "4 star", "count": 3460},
-      {"name": "5 star", "count": 5460}
-    ]
-  },
-  {
-    "id": 48,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=48",
-    "title": "GoalSetter",
-    "companyName": "GoalForge",
-    "description": "GoalSetter by GoalForge provides amazing features and seamless experience.",
-    "size": 27.5,
-    "reviews": 2239,
-    "ratingAvg": 3.8,
-    "downloads": 6,
-    "ratings": [
-      {"name": "1 star", "count": 1470},
-      {"name": "2 star", "count": 1970},
-      {"name": "3 star", "count": 2470},
-      {"name": "4 star", "count": 3470},
-      {"name": "5 star", "count": 5470}
-    ]
-  },
-  {
-    "id": 49,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=49",
-    "title": "WorkOutPro",
-    "companyName": "FitPro Labs",
-    "description": "WorkOutPro by FitPro Labs provides amazing features and seamless experience.",
-    "size": 30.0,
-    "reviews": 2276,
-    "ratingAvg": 4.2,
-    "downloads": 9,
-    "ratings": [
-      {"name": "1 star", "count": 1480},
-      {"name": "2 star", "count": 1980},
-      {"name": "3 star", "count": 2480},
-      {"name": "4 star", "count": 3480},
-      {"name": "5 star", "count": 5480}
-    ]
-  },
-  {
-    "id": 50,
-    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=50",
-    "title": "ThinkTank",
-    "companyName": "ThinkLabs",
-    "description": "ThinkTank by ThinkLabs provides amazing features and seamless experience.",
-    "size": 32.5,
-    "reviews": 2313,
-    "ratingAvg": 4.6,
-    "downloads": 1,
-    "ratings": [
-      {"name": "1 star", "count": 1490},
-      {"name": "2 star", "count": 1990},
-      {"name": "3 star", "count": 2490},
-      {"name": "4 star", "count": 3490},
-      {"name": "5 star", "count": 5490}
+      { "name": "1 star", "count": 1290 },
+      { "name": "2 star", "count": 1790 },
+      { "name": "3 star", "count": 2290 },
+      { "name": "4 star", "count": 3290 },
+      { "name": "5 star", "count": 5290 }
     ]
   }
 ]

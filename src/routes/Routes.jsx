@@ -3,6 +3,7 @@ import Home from "../pages/Home";
 import Layout from "../layout/Layout";
 import ErrorPage from "../pages/ErrorPage";
 import Apps from "../pages/Apps";
+import AppsDetails from "../pages/AppsDetails";
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
         path: "/apps",
         element: <Apps />,
       },
+      {
+        path: "/app/:id",
+        element: <AppsDetails />
+      }
     ],
   },
 ]);

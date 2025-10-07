@@ -3,6 +3,7 @@ import AppsCard from "../components/AppsCard";
 import Loader from "../components/Loader";
 import useApps from "../hooks/useApps";
 import notImage from "../assets/App-Error.png";
+import { Link } from "react-router";
 
 const Apps = () => {
   const { apps, loading, error } = useApps();
@@ -90,10 +91,22 @@ const Apps = () => {
           <Loader />
         ) : filteredApps.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-20">
-            <img src={notImage} alt="No Result" className="w-40 mb-4" />
-            <p className="text-gray-500 text-lg">
-              No products found for "{search}"
+            <img src={notImage} alt="No Result" className="w-80 mb-5" />
+            <h1 className="text-gray-700 font-bold text-4xl mb-3">
+              OPPS!! APP NOT FOUND 
+            </h1>
+            <p className="text-gray-500 text-sm">
+              The App you are requesting is not found on our system. please try
+              another apps
             </p>
+            <div className="mt-10 flex justify-center items-center">
+              <Link
+                to={"/"}
+                className="px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-lg transition cursor-pointer mb-6"
+              >
+                Go Back!
+              </Link>
+            </div>
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
