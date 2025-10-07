@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 import logo from "/logo.png";
 import { Github } from "lucide-react";
 
@@ -76,12 +76,12 @@ const Navbar = () => {
             </ul>
           </div>
 
-          <div className="flex items-center gap-2">
+          <Link to={'/'} className="flex items-center gap-2">
             <img src={logo} alt="logo" className="w-8 h-8" />
             <span className="font-work text-2xl font-bold text-[#632EE3]">
               HERO.<span className="text-[#632EE3]">IO</span>
             </span>
-          </div>
+          </Link>
         </div>
 
         {/* Desktop Menu */}
