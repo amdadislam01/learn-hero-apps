@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=1",
+    "title": "ChatEase",
+    "companyName": "TechNova Inc.",
+    "description": "ChatEase by TechNova Inc. provides amazing features and seamless experience.",
+    "size": 10.0,
+    "reviews": 500,
+    "ratingAvg": 3.0,
+    "downloads": 50000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 3000
+      },
+      {
+        "name": "5 star",
+        "count": 5000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=2",
+    "title": "PhotoSnap",
+    "companyName": "PixelSoft",
+    "description": "PhotoSnap by PixelSoft provides amazing features and seamless experience.",
+    "size": 12.5,
+    "reviews": 537,
+    "ratingAvg": 3.4,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1010
+      },
+      {
+        "name": "2 star",
+        "count": 1510
+      },
+      {
+        "name": "3 star",
+        "count": 2010
+      },
+      {
+        "name": "4 star",
+        "count": 3010
+      },
+      {
+        "name": "5 star",
+        "count": 5010
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=3",
+    "title": "TaskFlow",
+    "companyName": "NextGen Labs",
+    "description": "TaskFlow by NextGen Labs provides amazing features and seamless experience.",
+    "size": 15.0,
+    "reviews": 574,
+    "ratingAvg": 3.8,
+    "downloads": 150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1020
+      },
+      {
+        "name": "2 star",
+        "count": 1520
+      },
+      {
+        "name": "3 star",
+        "count": 2020
+      },
+      {
+        "name": "4 star",
+        "count": 3020
+      },
+      {
+        "name": "5 star",
+        "count": 5020
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=4",
+    "title": "FoodieHub",
+    "companyName": "FoodTech Ltd.",
+    "description": "FoodieHub by FoodTech Ltd. provides amazing features and seamless experience.",
+    "size": 17.5,
+    "reviews": 611,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1030
+      },
+      {
+        "name": "2 star",
+        "count": 1530
+      },
+      {
+        "name": "3 star",
+        "count": 2030
+      },
+      {
+        "name": "4 star",
+        "count": 3030
+      },
+      {
+        "name": "5 star",
+        "count": 5030
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=5",
+    "title": "FitTrack",
+    "companyName": "FitLife Co.",
+    "description": "FitTrack by FitLife Co. provides amazing features and seamless experience.",
+    "size": 20.0,
+    "reviews": 648,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1040
+      },
+      {
+        "name": "2 star",
+        "count": 1540
+      },
+      {
+        "name": "3 star",
+        "count": 2040
+      },
+      {
+        "name": "4 star",
+        "count": 3040
+      },
+      {
+        "name": "5 star",
+        "count": 5040
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=6",
+    "title": "TravelMate",
+    "companyName": "GlobeTrotters",
+    "description": "TravelMate by GlobeTrotters provides amazing features and seamless experience.",
+    "size": 22.5,
+    "reviews": 685,
+    "ratingAvg": 3.0,
+    "downloads": 300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1050
+      },
+      {
+        "name": "2 star",
+        "count": 1550
+      },
+      {
+        "name": "3 star",
+        "count": 2050
+      },
+      {
+        "name": "4 star",
+        "count": 3050
+      },
+      {
+        "name": "5 star",
+        "count": 5050
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=7",
+    "title": "StudySmart",
+    "companyName": "EduSpark",
+    "description": "StudySmart by EduSpark provides amazing features and seamless experience.",
+    "size": 25.0,
+    "reviews": 722,
+    "ratingAvg": 3.4,
+    "downloads": 350000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1060
+      },
+      {
+        "name": "2 star",
+        "count": 1560
+      },
+      {
+        "name": "3 star",
+        "count": 2060
+      },
+      {
+        "name": "4 star",
+        "count": 3060
+      },
+      {
+        "name": "5 star",
+        "count": 5060
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=8",
+    "title": "MusicWave",
+    "companyName": "Wave Studios",
+    "description": "MusicWave by Wave Studios provides amazing features and seamless experience.",
+    "size": 27.5,
+    "reviews": 759,
+    "ratingAvg": 3.8,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1070
+      },
+      {
+        "name": "2 star",
+        "count": 1570
+      },
+      {
+        "name": "3 star",
+        "count": 2070
+      },
+      {
+        "name": "4 star",
+        "count": 3070
+      },
+      {
+        "name": "5 star",
+        "count": 5070
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=9",
+    "title": "GameZone",
+    "companyName": "PlayMax",
+    "description": "GameZone by PlayMax provides amazing features and seamless experience.",
+    "size": 30.0,
+    "reviews": 796,
+    "ratingAvg": 4.2,
+    "downloads": 450000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1080
+      },
+      {
+        "name": "2 star",
+        "count": 1580
+      },
+      {
+        "name": "3 star",
+        "count": 2080
+      },
+      {
+        "name": "4 star",
+        "count": 3080
+      },
+      {
+        "name": "5 star",
+        "count": 5080
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=10",
+    "title": "ShopEasy",
+    "companyName": "EasyMart",
+    "description": "ShopEasy by EasyMart provides amazing features and seamless experience.",
+    "size": 32.5,
+    "reviews": 833,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1090
+      },
+      {
+        "name": "2 star",
+        "count": 1590
+      },
+      {
+        "name": "3 star",
+        "count": 2090
+      },
+      {
+        "name": "4 star",
+        "count": 3090
+      },
+      {
+        "name": "5 star",
+        "count": 5090
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=11",
+    "title": "FinancePro",
+    "companyName": "FinEdge",
+    "description": "FinancePro by FinEdge provides amazing features and seamless experience.",
+    "size": 35.0,
+    "reviews": 870,
+    "ratingAvg": 3.0,
+    "downloads": 550000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1100
+      },
+      {
+        "name": "2 star",
+        "count": 1600
+      },
+      {
+        "name": "3 star",
+        "count": 2100
+      },
+      {
+        "name": "4 star",
+        "count": 3100
+      },
+      {
+        "name": "5 star",
+        "count": 5100
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=12",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "description": "WeatherNow by SkyCast provides amazing features and seamless experience.",
+    "size": 37.5,
+    "reviews": 907,
+    "ratingAvg": 3.4,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1110
+      },
+      {
+        "name": "2 star",
+        "count": 1610
+      },
+      {
+        "name": "3 star",
+        "count": 2110
+      },
+      {
+        "name": "4 star",
+        "count": 3110
+      },
+      {
+        "name": "5 star",
+        "count": 5110
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=13",
+    "title": "HealthSync",
+    "companyName": "MediLink",
+    "description": "HealthSync by MediLink provides amazing features and seamless experience.",
+    "size": 40.0,
+    "reviews": 944,
+    "ratingAvg": 3.8,
+    "downloads": 650000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1120
+      },
+      {
+        "name": "2 star",
+        "count": 1620
+      },
+      {
+        "name": "3 star",
+        "count": 2120
+      },
+      {
+        "name": "4 star",
+        "count": 3120
+      },
+      {
+        "name": "5 star",
+        "count": 5120
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=14",
+    "title": "NewsDaily",
+    "companyName": "DailyPost",
+    "description": "NewsDaily by DailyPost provides amazing features and seamless experience.",
+    "size": 42.5,
+    "reviews": 981,
+    "ratingAvg": 4.2,
+    "downloads": 700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1130
+      },
+      {
+        "name": "2 star",
+        "count": 1630
+      },
+      {
+        "name": "3 star",
+        "count": 2130
+      },
+      {
+        "name": "4 star",
+        "count": 3130
+      },
+      {
+        "name": "5 star",
+        "count": 5130
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=15",
+    "title": "NoteCraft",
+    "companyName": "CraftWorks",
+    "description": "NoteCraft by CraftWorks provides amazing features and seamless experience.",
+    "size": 45.0,
+    "reviews": 1018,
+    "ratingAvg": 4.6,
+    "downloads": 750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1140
+      },
+      {
+        "name": "2 star",
+        "count": 1640
+      },
+      {
+        "name": "3 star",
+        "count": 2140
+      },
+      {
+        "name": "4 star",
+        "count": 3140
+      },
+      {
+        "name": "5 star",
+        "count": 5140
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=16",
+    "title": "RideGo",
+    "companyName": "RideShare",
+    "description": "RideGo by RideShare provides amazing features and seamless experience.",
+    "size": 47.5,
+    "reviews": 1055,
+    "ratingAvg": 3.0,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1150
+      },
+      {
+        "name": "2 star",
+        "count": 1650
+      },
+      {
+        "name": "3 star",
+        "count": 2150
+      },
+      {
+        "name": "4 star",
+        "count": 3150
+      },
+      {
+        "name": "5 star",
+        "count": 5150
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=17",
+    "title": "MovieBox",
+    "companyName": "CineWorld",
+    "description": "MovieBox by CineWorld provides amazing features and seamless experience.",
+    "size": 50.0,
+    "reviews": 1092,
+    "ratingAvg": 3.4,
+    "downloads": 850000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1160
+      },
+      {
+        "name": "2 star",
+        "count": 1660
+      },
+      {
+        "name": "3 star",
+        "count": 2160
+      },
+      {
+        "name": "4 star",
+        "count": 3160
+      },
+      {
+        "name": "5 star",
+        "count": 5160
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=18",
+    "title": "Learnify",
+    "companyName": "BrightMind",
+    "description": "Learnify by BrightMind provides amazing features and seamless experience.",
+    "size": 52.5,
+    "reviews": 1129,
+    "ratingAvg": 3.8,
+    "downloads": 900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1170
+      },
+      {
+        "name": "2 star",
+        "count": 1670
+      },
+      {
+        "name": "3 star",
+        "count": 2170
+      },
+      {
+        "name": "4 star",
+        "count": 3170
+      },
+      {
+        "name": "5 star",
+        "count": 5170
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=19",
+    "title": "WorkHive",
+    "companyName": "HiveTech",
+    "description": "WorkHive by HiveTech provides amazing features and seamless experience.",
+    "size": 55.0,
+    "reviews": 1166,
+    "ratingAvg": 4.2,
+    "downloads": 950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1180
+      },
+      {
+        "name": "2 star",
+        "count": 1680
+      },
+      {
+        "name": "3 star",
+        "count": 2180
+      },
+      {
+        "name": "4 star",
+        "count": 3180
+      },
+      {
+        "name": "5 star",
+        "count": 5180
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=20",
+    "title": "RecipeMaster",
+    "companyName": "KitchenPro",
+    "description": "RecipeMaster by KitchenPro provides amazing features and seamless experience.",
+    "size": 57.5,
+    "reviews": 1203,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1190
+      },
+      {
+        "name": "2 star",
+        "count": 1690
+      },
+      {
+        "name": "3 star",
+        "count": 2190
+      },
+      {
+        "name": "4 star",
+        "count": 3190
+      },
+      {
+        "name": "5 star",
+        "count": 5190
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=21",
+    "title": "DocScan",
+    "companyName": "ScanWorks",
+    "description": "DocScan by ScanWorks provides amazing features and seamless experience.",
+    "size": 10.0,
+    "reviews": 1240,
+    "ratingAvg": 3.0,
+    "downloads": 1050000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 1700
+      },
+      {
+        "name": "3 star",
+        "count": 2200
+      },
+      {
+        "name": "4 star",
+        "count": 3200
+      },
+      {
+        "name": "5 star",
+        "count": 5200
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=22",
+    "title": "Artify",
+    "companyName": "CreativeHub",
+    "description": "Artify by CreativeHub provides amazing features and seamless experience.",
+    "size": 12.5,
+    "reviews": 1277,
+    "ratingAvg": 3.4,
+    "downloads": 1100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1210
+      },
+      {
+        "name": "2 star",
+        "count": 1710
+      },
+      {
+        "name": "3 star",
+        "count": 2210
+      },
+      {
+        "name": "4 star",
+        "count": 3210
+      },
+      {
+        "name": "5 star",
+        "count": 5210
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=23",
+    "title": "LangBridge",
+    "companyName": "LinguaTech",
+    "description": "LangBridge by LinguaTech provides amazing features and seamless experience.",
+    "size": 15.0,
+    "reviews": 1314,
+    "ratingAvg": 3.8,
+    "downloads": 1150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1220
+      },
+      {
+        "name": "2 star",
+        "count": 1720
+      },
+      {
+        "name": "3 star",
+        "count": 2220
+      },
+      {
+        "name": "4 star",
+        "count": 3220
+      },
+      {
+        "name": "5 star",
+        "count": 5220
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=24",
+    "title": "BookNest",
+    "companyName": "BookVerse",
+    "description": "BookNest by BookVerse provides amazing features and seamless experience.",
+    "size": 17.5,
+    "reviews": 1351,
+    "ratingAvg": 4.2,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1230
+      },
+      {
+        "name": "2 star",
+        "count": 1730
+      },
+      {
+        "name": "3 star",
+        "count": 2230
+      },
+      {
+        "name": "4 star",
+        "count": 3230
+      },
+      {
+        "name": "5 star",
+        "count": 5230
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=25",
+    "title": "PlanIt",
+    "companyName": "PlanPro",
+    "description": "PlanIt by PlanPro provides amazing features and seamless experience.",
+    "size": 20.0,
+    "reviews": 1388,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1240
+      },
+      {
+        "name": "2 star",
+        "count": 1740
+      },
+      {
+        "name": "3 star",
+        "count": 2240
+      },
+      {
+        "name": "4 star",
+        "count": 3240
+      },
+      {
+        "name": "5 star",
+        "count": 5240
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=26",
+    "title": "SkillUp",
+    "companyName": "SkillForge",
+    "description": "SkillUp by SkillForge provides amazing features and seamless experience.",
+    "size": 22.5,
+    "reviews": 1425,
+    "ratingAvg": 3.0,
+    "downloads": 1300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1250
+      },
+      {
+        "name": "2 star",
+        "count": 1750
+      },
+      {
+        "name": "3 star",
+        "count": 2250
+      },
+      {
+        "name": "4 star",
+        "count": 3250
+      },
+      {
+        "name": "5 star",
+        "count": 5250
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=27",
+    "title": "CryptoWatch",
+    "companyName": "CryptoEdge",
+    "description": "CryptoWatch by CryptoEdge provides amazing features and seamless experience.",
+    "size": 25.0,
+    "reviews": 1462,
+    "ratingAvg": 3.4,
+    "downloads": 1350000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1260
+      },
+      {
+        "name": "2 star",
+        "count": 1760
+      },
+      {
+        "name": "3 star",
+        "count": 2260
+      },
+      {
+        "name": "4 star",
+        "count": 3260
+      },
+      {
+        "name": "5 star",
+        "count": 5260
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=28",
+    "title": "MindCalm",
+    "companyName": "MindWell",
+    "description": "MindCalm by MindWell provides amazing features and seamless experience.",
+    "size": 27.5,
+    "reviews": 1499,
+    "ratingAvg": 3.8,
+    "downloads": 1400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1270
+      },
+      {
+        "name": "2 star",
+        "count": 1770
+      },
+      {
+        "name": "3 star",
+        "count": 2270
+      },
+      {
+        "name": "4 star",
+        "count": 3270
+      },
+      {
+        "name": "5 star",
+        "count": 5270
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=29",
+    "title": "Evently",
+    "companyName": "EventPro",
+    "description": "Evently by EventPro provides amazing features and seamless experience.",
+    "size": 30.0,
+    "reviews": 1536,
+    "ratingAvg": 4.2,
+    "downloads": 1450000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1280
+      },
+      {
+        "name": "2 star",
+        "count": 1780
+      },
+      {
+        "name": "3 star",
+        "count": 2280
+      },
+      {
+        "name": "4 star",
+        "count": 3280
+      },
+      {
+        "name": "5 star",
+        "count": 5280
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=30",
+    "title": "QuizArena",
+    "companyName": "QuizMaster",
+    "description": "QuizArena by QuizMaster provides amazing features and seamless experience.",
+    "size": 32.5,
+    "reviews": 1573,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1290
+      },
+      {
+        "name": "2 star",
+        "count": 1790
+      },
+      {
+        "name": "3 star",
+        "count": 2290
+      },
+      {
+        "name": "4 star",
+        "count": 3290
+      },
+      {
+        "name": "5 star",
+        "count": 5290
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=31",
+    "title": "GardenPro",
+    "companyName": "GreenTech",
+    "description": "GardenPro by GreenTech provides amazing features and seamless experience.",
+    "size": 35.0,
+    "reviews": 1610,
+    "ratingAvg": 3.0,
+    "downloads": 1550000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1300
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 2300
+      },
+      {
+        "name": "4 star",
+        "count": 3300
+      },
+      {
+        "name": "5 star",
+        "count": 5300
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=32",
+    "title": "CodeBase",
+    "companyName": "DevCore",
+    "description": "CodeBase by DevCore provides amazing features and seamless experience.",
+    "size": 37.5,
+    "reviews": 1647,
+    "ratingAvg": 3.4,
+    "downloads": 1600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1310
+      },
+      {
+        "name": "2 star",
+        "count": 1810
+      },
+      {
+        "name": "3 star",
+        "count": 2310
+      },
+      {
+        "name": "4 star",
+        "count": 3310
+      },
+      {
+        "name": "5 star",
+        "count": 5310
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=33",
+    "title": "VoiceNote",
+    "companyName": "NoteWave",
+    "description": "VoiceNote by NoteWave provides amazing features and seamless experience.",
+    "size": 40.0,
+    "reviews": 1684,
+    "ratingAvg": 3.8,
+    "downloads": 1650000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1320
+      },
+      {
+        "name": "2 star",
+        "count": 1820
+      },
+      {
+        "name": "3 star",
+        "count": 2320
+      },
+      {
+        "name": "4 star",
+        "count": 3320
+      },
+      {
+        "name": "5 star",
+        "count": 5320
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=34",
+    "title": "Trendify",
+    "companyName": "TrendLabs",
+    "description": "Trendify by TrendLabs provides amazing features and seamless experience.",
+    "size": 42.5,
+    "reviews": 1721,
+    "ratingAvg": 4.2,
+    "downloads": 1700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1330
+      },
+      {
+        "name": "2 star",
+        "count": 1830
+      },
+      {
+        "name": "3 star",
+        "count": 2330
+      },
+      {
+        "name": "4 star",
+        "count": 3330
+      },
+      {
+        "name": "5 star",
+        "count": 5330
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=35",
+    "title": "PetCare",
+    "companyName": "PetWorld",
+    "description": "PetCare by PetWorld provides amazing features and seamless experience.",
+    "size": 45.0,
+    "reviews": 1758,
+    "ratingAvg": 4.6,
+    "downloads": 1750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1340
+      },
+      {
+        "name": "2 star",
+        "count": 1840
+      },
+      {
+        "name": "3 star",
+        "count": 2340
+      },
+      {
+        "name": "4 star",
+        "count": 3340
+      },
+      {
+        "name": "5 star",
+        "count": 5340
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=36",
+    "title": "VisionCam",
+    "companyName": "Visionary Inc.",
+    "description": "VisionCam by Visionary Inc. provides amazing features and seamless experience.",
+    "size": 47.5,
+    "reviews": 1795,
+    "ratingAvg": 3.0,
+    "downloads": 1800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1350
+      },
+      {
+        "name": "2 star",
+        "count": 1850
+      },
+      {
+        "name": "3 star",
+        "count": 2350
+      },
+      {
+        "name": "4 star",
+        "count": 3350
+      },
+      {
+        "name": "5 star",
+        "count": 5350
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=37",
+    "title": "SmartHome",
+    "companyName": "HomeLink",
+    "description": "SmartHome by HomeLink provides amazing features and seamless experience.",
+    "size": 50.0,
+    "reviews": 1832,
+    "ratingAvg": 3.4,
+    "downloads": 1850000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1360
+      },
+      {
+        "name": "2 star",
+        "count": 1860
+      },
+      {
+        "name": "3 star",
+        "count": 2360
+      },
+      {
+        "name": "4 star",
+        "count": 3360
+      },
+      {
+        "name": "5 star",
+        "count": 5360
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=38",
+    "title": "EduTrack",
+    "companyName": "EduCore",
+    "description": "EduTrack by EduCore provides amazing features and seamless experience.",
+    "size": 52.5,
+    "reviews": 1869,
+    "ratingAvg": 3.8,
+    "downloads": 1900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1370
+      },
+      {
+        "name": "2 star",
+        "count": 1870
+      },
+      {
+        "name": "3 star",
+        "count": 2370
+      },
+      {
+        "name": "4 star",
+        "count": 3370
+      },
+      {
+        "name": "5 star",
+        "count": 5370
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=39",
+    "title": "StockWise",
+    "companyName": "StockEdge",
+    "description": "StockWise by StockEdge provides amazing features and seamless experience.",
+    "size": 55.0,
+    "reviews": 1906,
+    "ratingAvg": 4.2,
+    "downloads": 1950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1380
+      },
+      {
+        "name": "2 star",
+        "count": 1880
+      },
+      {
+        "name": "3 star",
+        "count": 2380
+      },
+      {
+        "name": "4 star",
+        "count": 3380
+      },
+      {
+        "name": "5 star",
+        "count": 5380
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=40",
+    "title": "InspireMe",
+    "companyName": "InspireTech",
+    "description": "InspireMe by InspireTech provides amazing features and seamless experience.",
+    "size": 57.5,
+    "reviews": 1943,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1390
+      },
+      {
+        "name": "2 star",
+        "count": 1890
+      },
+      {
+        "name": "3 star",
+        "count": 2390
+      },
+      {
+        "name": "4 star",
+        "count": 3390
+      },
+      {
+        "name": "5 star",
+        "count": 5390
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=41",
+    "title": "DealFinder",
+    "companyName": "DealPro",
+    "description": "DealFinder by DealPro provides amazing features and seamless experience.",
+    "size": 10.0,
+    "reviews": 1980,
+    "ratingAvg": 3.0,
+    "downloads": 2050000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1400
+      },
+      {
+        "name": "2 star",
+        "count": 1900
+      },
+      {
+        "name": "3 star",
+        "count": 2400
+      },
+      {
+        "name": "4 star",
+        "count": 3400
+      },
+      {
+        "name": "5 star",
+        "count": 5400
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=42",
+    "title": "CraftZone",
+    "companyName": "MakerHub",
+    "description": "CraftZone by MakerHub provides amazing features and seamless experience.",
+    "size": 12.5,
+    "reviews": 2017,
+    "ratingAvg": 3.4,
+    "downloads": 2100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1410
+      },
+      {
+        "name": "2 star",
+        "count": 1910
+      },
+      {
+        "name": "3 star",
+        "count": 2410
+      },
+      {
+        "name": "4 star",
+        "count": 3410
+      },
+      {
+        "name": "5 star",
+        "count": 5410
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=43",
+    "title": "PlayTune",
+    "companyName": "SoundWave",
+    "description": "PlayTune by SoundWave provides amazing features and seamless experience.",
+    "size": 15.0,
+    "reviews": 2054,
+    "ratingAvg": 3.8,
+    "downloads": 2150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1420
+      },
+      {
+        "name": "2 star",
+        "count": 1920
+      },
+      {
+        "name": "3 star",
+        "count": 2420
+      },
+      {
+        "name": "4 star",
+        "count": 3420
+      },
+      {
+        "name": "5 star",
+        "count": 5420
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=44",
+    "title": "FlashLearn",
+    "companyName": "FlashEdu",
+    "description": "FlashLearn by FlashEdu provides amazing features and seamless experience.",
+    "size": 17.5,
+    "reviews": 2091,
+    "ratingAvg": 4.2,
+    "downloads": 2200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1430
+      },
+      {
+        "name": "2 star",
+        "count": 1930
+      },
+      {
+        "name": "3 star",
+        "count": 2430
+      },
+      {
+        "name": "4 star",
+        "count": 3430
+      },
+      {
+        "name": "5 star",
+        "count": 5430
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=45",
+    "title": "StyleMe",
+    "companyName": "StyleWorks",
+    "description": "StyleMe by StyleWorks provides amazing features and seamless experience.",
+    "size": 20.0,
+    "reviews": 2128,
+    "ratingAvg": 4.6,
+    "downloads": 2250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1440
+      },
+      {
+        "name": "2 star",
+        "count": 1940
+      },
+      {
+        "name": "3 star",
+        "count": 2440
+      },
+      {
+        "name": "4 star",
+        "count": 3440
+      },
+      {
+        "name": "5 star",
+        "count": 5440
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=46",
+    "title": "ZenTimer",
+    "companyName": "ZenTech",
+    "description": "ZenTimer by ZenTech provides amazing features and seamless experience.",
+    "size": 22.5,
+    "reviews": 2165,
+    "ratingAvg": 3.0,
+    "downloads": 2300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1450
+      },
+      {
+        "name": "2 star",
+        "count": 1950
+      },
+      {
+        "name": "3 star",
+        "count": 2450
+      },
+      {
+        "name": "4 star",
+        "count": 3450
+      },
+      {
+        "name": "5 star",
+        "count": 5450
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=47",
+    "title": "QuickScan",
+    "companyName": "ScanPro",
+    "description": "QuickScan by ScanPro provides amazing features and seamless experience.",
+    "size": 25.0,
+    "reviews": 2202,
+    "ratingAvg": 3.4,
+    "downloads": 2350000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1460
+      },
+      {
+        "name": "2 star",
+        "count": 1960
+      },
+      {
+        "name": "3 star",
+        "count": 2460
+      },
+      {
+        "name": "4 star",
+        "count": 3460
+      },
+      {
+        "name": "5 star",
+        "count": 5460
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=48",
+    "title": "GoalSetter",
+    "companyName": "GoalForge",
+    "description": "GoalSetter by GoalForge provides amazing features and seamless experience.",
+    "size": 27.5,
+    "reviews": 2239,
+    "ratingAvg": 3.8,
+    "downloads": 2400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1470
+      },
+      {
+        "name": "2 star",
+        "count": 1970
+      },
+      {
+        "name": "3 star",
+        "count": 2470
+      },
+      {
+        "name": "4 star",
+        "count": 3470
+      },
+      {
+        "name": "5 star",
+        "count": 5470
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=49",
+    "title": "WorkOutPro",
+    "companyName": "FitPro Labs",
+    "description": "WorkOutPro by FitPro Labs provides amazing features and seamless experience.",
+    "size": 30.0,
+    "reviews": 2276,
+    "ratingAvg": 4.2,
+    "downloads": 2450000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1480
+      },
+      {
+        "name": "2 star",
+        "count": 1980
+      },
+      {
+        "name": "3 star",
+        "count": 2480
+      },
+      {
+        "name": "4 star",
+        "count": 3480
+      },
+      {
+        "name": "5 star",
+        "count": 5480
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "image": "https://source.unsplash.com/random/400x400/?app,technology&sig=50",
+    "title": "ThinkTank",
+    "companyName": "ThinkLabs",
+    "description": "ThinkTank by ThinkLabs provides amazing features and seamless experience.",
+    "size": 32.5,
+    "reviews": 2313,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1490
+      },
+      {
+        "name": "2 star",
+        "count": 1990
+      },
+      {
+        "name": "3 star",
+        "count": 2490
+      },
+      {
+        "name": "4 star",
+        "count": 3490
+      },
+      {
+        "name": "5 star",
+        "count": 5490
+      }
+    ]
+  }
+]
