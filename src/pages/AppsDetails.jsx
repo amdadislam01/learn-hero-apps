@@ -15,10 +15,10 @@ import {
   CartesianGrid,
 } from "recharts";
 
-import Swal from 'sweetalert2'
-import withReactContent from 'sweetalert2-react-content'
+import Swal from "sweetalert2";
+import withReactContent from "sweetalert2-react-content";
 
-const MySwal = withReactContent(Swal)
+const MySwal = withReactContent(Swal);
 
 const AppsDetails = () => {
   const { id } = useParams();
@@ -57,8 +57,8 @@ const AppsDetails = () => {
         confirmButtonText: "OK",
         timer: 2000,
         timerProgressBar: true,
-        showClass: { popup: 'animate__animated animate__fadeInDown' },
-        hideClass: { popup: 'animate__animated animate__fadeOutUp' }
+        showClass: { popup: "animate__animated animate__fadeInDown" },
+        hideClass: { popup: "animate__animated animate__fadeOutUp" },
       });
     }
   };
@@ -83,10 +83,10 @@ const AppsDetails = () => {
           <p className="text-sm sm:text-md text-gray-500 mt-2">
             Developed by{" "}
             <a
-              href={app.developerLink}
+              href={app.companyName}
               className="text-violet-600 font-bold hover:underline"
             >
-              {app.developer || "productive.io"}
+              {app.companyName}
             </a>
           </p>
 
@@ -122,7 +122,9 @@ const AppsDetails = () => {
               <div className="text-center">
                 <p className="text-sm text-gray-500">Total Reviews</p>
                 <p className="text-xl sm:text-2xl md:text-4xl font-extrabold">
-                  {app.reviews}
+                  {app.reviews >= 1000
+                    ? (app.reviews / 1000).toFixed(1).replace(/\.0$/, "") + "K"
+                    : app.reviews}
                 </p>
               </div>
             </div>
@@ -160,7 +162,12 @@ const AppsDetails = () => {
                 <XAxis type="number" domain={[0, 12000]} />
                 <YAxis dataKey="name" type="category" tick={{ fontSize: 12 }} />
                 <Tooltip />
-                <Bar dataKey="count" fill="#22c55e" barSize={18} radius={[4, 4, 4, 4]} />
+                <Bar
+                  dataKey="count"
+                  fill="#22c55e"
+                  barSize={18}
+                  radius={[4, 4, 4, 4]}
+                />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -173,7 +180,9 @@ const AppsDetails = () => {
           <h3 className="text-xl sm:text-2xl font-semibold text-gray-800 mb-4">
             Description
           </h3>
-          <p className="text-gray-600 text-sm sm:text-base">{app.description}</p>
+          <p className="text-gray-600 text-sm sm:text-base">
+            {app.description}
+          </p>
         </div>
       )}
     </div>
