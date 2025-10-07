@@ -21,7 +21,7 @@ const useApps = () => {
       })
       .catch((err) => setError(err))
       .finally(() => {
-        timer = setTimeout(() => setLoading(false), 1500);
+        timer = setTimeout(() => setLoading(false), 1000);
       });
 
     return () => clearTimeout(timer);

@@ -66,7 +66,7 @@ const Navbar = () => {
             >
               {links}
               <div className="mt-3 flex flex-col gap-2">
-                <a className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
+                <a href="https://github.com/amdadislam01" className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
                   <span>
                     <Github />
                   </span>{" "}
@@ -90,7 +90,7 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-end gap-4 hidden sm:flex">
-          <a className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
+          <a  href="https://github.com/amdadislam01" className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
             <span>
               <Github />
             </span>{" "}
