@@ -16,6 +16,9 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router": "^7.9.3",
+    "recharts": "^3.2.1",
+    "sweetalert2": "^11.24.0",
+    "sweetalert2-react-content": "^5.1.0",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
