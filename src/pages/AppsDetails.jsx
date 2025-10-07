@@ -55,7 +55,7 @@ const AppsDetails = () => {
     // SweetAlert popup
     Swal.fire({
       title: "Installed!",
-      text: `${app.name} has been successfully installed.`,
+      text: `${app.title} has been successfully installed.`,
       icon: "success",
       confirmButtonText: "OK",
       timer: 2000,
@@ -73,7 +73,7 @@ const AppsDetails = () => {
   return (
     <div className="bg-[#f5f5f5] min-h-screen">
       <div className="flex flex-col md:flex-row items-center gap-12 py-20 w-full max-w-6xl mx-auto mt-10 md:mt-20">
-        {/* Left: Image */}
+        {/* Image */}
         <div className="flex-shrink-0">
           <img
             src={app.image}
@@ -82,7 +82,7 @@ const AppsDetails = () => {
           />
         </div>
 
-        {/* Right: Info Section */}
+        {/* Info Section */}
         <div className="flex-1">
           <h2 className="text-2xl md:text-4xl font-bold text-gray-900">
             {app.title}
@@ -135,13 +135,13 @@ const AppsDetails = () => {
             </div>
           </div>
 
-          {/* Install Button */}
+          {/* Install  */}
           <button
             onClick={handleInstall}
             disabled={isInstalled}
-            className={`mt-6 px-6 py-3 rounded-lg transition-all duration-300 font-medium ${
+            className={`mt-6 px-6 py-3 rounded-lg transition-all duration-300 font-medium cursor-pointer ${
               isInstalled
-                ? "bg-gray-400 cursor-not-allowed text-white"
+                ? "bg-emerald-400 cursor-not-allowed text-white"
                 : "bg-emerald-500 hover:bg-emerald-600 text-white"
             }`}
           >

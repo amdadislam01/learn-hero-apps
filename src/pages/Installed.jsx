@@ -1,10 +1,14 @@
 import React, { useState, useEffect } from "react";
-import download from '../assets/icon-downloads.png';
-import rating from '../assets/icon-ratings.png'
+import download from "../assets/icon-downloads.png";
+import rating from "../assets/icon-ratings.png";
+import Swal from "sweetalert2";
+import withReactContent from "sweetalert2-react-content";
+
+const MySwal = withReactContent(Swal);
 
 const Installed = () => {
   const [installedApps, setInstalledApps] = useState([]);
-  const [sortOption, setSortOption] = useState(""); 
+  const [sortOption, setSortOption] = useState("");
 
   useEffect(() => {
     const saved = JSON.parse(localStorage.getItem("installedApps")) || [];
@@ -12,25 +16,50 @@ const Installed = () => {
   }, []);
 
   const handleUninstall = (id) => {
-    const updated = installedApps.filter((item) => item.id !== id);
-    setInstalledApps(updated);
-    localStorage.setItem("installedApps", JSON.stringify(updated));
+    const appToRemove = installedApps.find((item) => item.id === id);
+
+    Swal.fire({
+      title: `Uninstall ${appToRemove?.title}?`,
+      text: "This action cannot be undone!",
+      icon: "warning",
+      showCancelButton: true,
+      confirmButtonColor: "#d33",
+      cancelButtonColor: "#3085d6",
+      confirmButtonText: "Yes, uninstall it!",
+      cancelButtonText: "Cancel",
+    }).then((result) => {
+      if (result.isConfirmed) {
+        const updated = installedApps.filter((item) => item.id !== id);
+        setInstalledApps(updated);
+        localStorage.setItem("installedApps", JSON.stringify(updated));
+
+        Swal.fire({
+          title: "Uninstalled!",
+          text: `${appToRemove?.title} has been successfully removed.`,
+          icon: "success",
+          timer: 2000,
+          timerProgressBar: true,
+        });
+      }
+    });
   };
 
   const sortedApps = [...installedApps].sort((a, b) => {
     if (sortOption === "low") {
-      return a.size - b.size; 
+      return a.size - b.size;
     } else if (sortOption === "high") {
-      return b.size - a.size; 
+      return b.size - a.size;
     }
-    return 0; 
+    return 0;
   });
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] py-10 px-4 md:px-8 mt-10 md:mt-16">
       {/* Header */}
       <div className="text-center mb-10">
-        <h1 className="text-5xl font-bold text-gray-900 mt-5">Your Installed Apps</h1>
+        <h1 className="text-5xl font-bold text-gray-900 mt-5">
+          Your Installed Apps
+        </h1>
         <p className="text-gray-500 text-xl mt-3">
           Explore All Trending Apps on the Market developed by us
         </p>
@@ -72,40 +101,28 @@ const Installed = () => {
                 />
 
                 <div>
-                  <h3 className="text-gray-800 font-semibold">
-                    {item.title}
-                  </h3>
+                  <h3 className="text-gray-800 font-semibold">{item.title}</h3>
                   <div className="flex items-center gap-3 text-sm mt-1">
                     {/* Downloads */}
                     <div className="flex items-center gap-1 text-green-600">
-                      <img
-                        src={download}
-                        alt="Downloads"
-                        className="w-4 h-4"
-                      />
+                      <img src={download} alt="Downloads" className="w-4 h-4" />
                       <span>{item.downloads}M</span>
                     </div>
 
                     {/* Rating */}
                     <div className="flex items-center gap-1 text-yellow-500">
-                      <img
-                        src={rating}
-                        alt="Star"
-                        className="w-4 h-4"
-                      />
+                      <img src={rating} alt="Star" className="w-4 h-4" />
                       <span>{item.ratingAvg}</span>
                     </div>
-
-                    {/* Size */}
                     <p className="text-gray-500">{item.size} MB</p>
                   </div>
                 </div>
               </div>
 
-              {/* Uninstall Button */}
+              {/* Uninstall  */}
               <button
                 onClick={() => handleUninstall(item.id)}
-                className="bg-emerald-500 hover:bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg transition"
+                className="bg-emerald-500 hover:bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg transition cursor-pointer"
               >
                 Uninstall
               </button>
