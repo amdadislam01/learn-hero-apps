@@ -3,27 +3,32 @@ import loadingImage from "/logo.png";
 
 const Loader = () => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-[#f5f5f5]">
-      <div className="flex items-center text-6xl font-extrabold text-gray-800 space-x-3">
-        {/* L bouncing */}
-        <span className="text-gray-700 animate-bounce" style={{ animationDuration: "1.5s" }}>
+    <div className="flex flex-col items-center justify-center min-h-screen bg-[#f5f5f5] px-4">
+      <div className="flex flex-wrap items-center justify-center space-x-2 md:space-x-4">
+        <span className="text-4xl md:text-6xl font-extrabold text-gray-700 animate-bounce-scale">
           L
         </span>
 
-        {/* Image rotating */}
         <img
           src={loadingImage}
           alt="logo"
-          className="w-20 h-20 rounded-full shadow-2xl animate-spin-slow"
+          className="w-16 h-16 md:w-24 md:h-24 rounded-full animate-spin-slow"
         />
 
-        {/* Rest of letters bouncing together */}
-        <span className="inline-block text-gray-700 font-bold animate-bounce" style={{ animationDuration: "1.5s" }}>
-          OADING
+        <span className="text-4xl md:text-6xl font-extrabold text-gray-700 flex flex-wrap justify-center space-x-1">
+          {"OADING".split("").map((letter, idx) => (
+            <span
+              key={idx}
+              className="animate-bounce-scale"
+              style={{ animationDelay: `${idx * 0.1}s` }}
+            >
+              {letter}
+            </span>
+          ))}
         </span>
       </div>
 
-      {/* Inline keyframes for slow rotation */}
+      {/*  keyframes */}
       <style>
         {`
           @keyframes spin-slow {
@@ -32,6 +37,15 @@ const Loader = () => {
           }
           .animate-spin-slow {
             animation: spin-slow 2s linear infinite;
+          }
+
+          @keyframes bounce-scale {
+            0%, 100% { transform: translateY(0) scale(1); }
+            50% { transform: translateY(-15px) scale(1.2); }
+          }
+          .animate-bounce-scale {
+            display: inline-block;
+            animation: bounce-scale 1s ease-in-out infinite;
           }
         `}
       </style>

@@ -55,18 +55,16 @@ const Installed = () => {
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] py-10 px-4 md:px-8 mt-10 md:mt-16">
-      {/* Header */}
       <div className="text-center mb-10">
-        <h1 className="text-5xl font-bold text-gray-900 mt-5">
+        <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mt-5">
           Your Installed Apps
         </h1>
-        <p className="text-gray-500 text-xl mt-3">
+        <p className="text-gray-500 text-sm md:text-xl mt-3">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
 
       <div className="max-w-6xl mx-auto mt-10">
-        {/* Top Section */}
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-lg font-semibold text-gray-800 border-b-2">
             {installedApps.length} Apps Found
@@ -85,14 +83,12 @@ const Installed = () => {
           </div>
         </div>
 
-        {/* App List */}
         <div className="space-y-4">
           {sortedApps.map((item) => (
             <div
               key={item.id}
               className="flex items-center justify-between bg-white shadow-sm rounded-xl p-4 hover:shadow-md transition"
             >
-              {/* Left Section */}
               <div className="flex items-center gap-4">
                 <img
                   src={item.image}

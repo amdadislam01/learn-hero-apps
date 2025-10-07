@@ -42,9 +42,7 @@ const Navbar = () => {
   return (
     <div className="fixed top-0 left-0 w-full z-50 bg-base-100 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 md:px-10 navbar">
-        {/* Left */}
         <div className="navbar-start">
-          {/* Mobile Menu */}
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
               <svg
@@ -67,7 +65,6 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
             >
               {links}
-              {/* Mobile Buttons */}
               <div className="mt-3 flex flex-col gap-2">
                 <a className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
                   <span>
@@ -79,7 +76,6 @@ const Navbar = () => {
             </ul>
           </div>
 
-          {/* Brand */}
           <div className="flex items-center gap-2">
             <img src={logo} alt="logo" className="w-8 h-8" />
             <span className="font-work text-2xl font-bold text-[#632EE3]">
@@ -93,7 +89,6 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{links}</ul>
         </div>
 
-        {/* Right (Desktop Buttons) */}
         <div className="navbar-end gap-4 hidden sm:flex">
           <a className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white">
             <span>

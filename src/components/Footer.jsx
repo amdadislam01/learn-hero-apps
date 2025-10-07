@@ -7,8 +7,7 @@ const Footer = () => {
     <footer className="bg-base-100 border-t border-gray-200">
       <div className="max-w-7xl mx-auto px-6 md:px-10 py-10">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center text-center md:text-left">
-          
-          {/* Brand */}
+
           <div className="flex flex-col items-center md:items-start gap-3">
             <div className="flex items-center gap-2">
               <img src={logo} alt="logo" className="w-10 h-10" />
@@ -21,7 +20,6 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Quick Links */}
           <div className="flex flex-col items-center gap-2">
             <h4 className="font-semibold text-gray-900">Quick Links</h4>
             <ul className="space-y-1">
@@ -37,7 +35,6 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Social */}
           <div className="flex flex-col items-center md:items-end gap-3">
             <h4 className="font-semibold text-gray-900">Follow Us</h4>
             <a
@@ -50,9 +47,9 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Divider */}
         <div className="border-t border-gray-200 mt-8 pt-6 text-center text-gray-500 text-sm">
           © {new Date().getFullYear()} HERO.IO — All Rights Reserved.
+          <p className="text-gray-500 text-sm">Developed By <a href="https://amdadislam-01.netlify.app/">Amdad Islam</a></p>
         </div>
       </div>
     </footer>
