@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
 import download from "../assets/icon-downloads.png";
 import rating from "../assets/icon-ratings.png";
+import emptyImage from "../assets/App-Error.png";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import { Link } from "react-router";
 
 const MySwal = withReactContent(Swal);
 
@@ -46,9 +48,9 @@ const Installed = () => {
 
   const sortedApps = [...installedApps].sort((a, b) => {
     if (sortOption === "low") {
-      return a.size - b.size;
+      return a.downloads - b.downloads;
     } else if (sortOption === "high") {
-      return b.size - a.size;
+      return b.downloads - a.downloads;
     }
     return 0;
   });
@@ -76,55 +78,78 @@ const Installed = () => {
               onChange={(e) => setSortOption(e.target.value)}
               className="border border-gray-300 rounded-lg px-3 py-2 text-gray-700 text-sm focus:outline-none cursor-pointer"
             >
-              <option value="">Sort By Size</option>
+              <option value="">Sort By Download</option>
               <option value="low">Low To High</option>
               <option value="high">High To Low</option>
             </select>
           </div>
         </div>
 
-        <div className="space-y-4">
-          {sortedApps.map((item) => (
-            <div
-              key={item.id}
-              className="flex items-center justify-between bg-white shadow-sm rounded-xl p-4 hover:shadow-md transition"
-            >
-              <div className="flex items-center gap-4">
-                <img
-                  src={item.image}
-                  alt={item.title}
-                  className="w-16 h-16 object-cover rounded-lg"
-                />
+        {sortedApps.length === 0 ? (
+          <div className="flex flex-col items-center justify-center py-20">
+            <img
+              src={emptyImage}
+              alt="No Apps"
+              className="w-80 h-80 object-contain mb-6"
+            />
+            <h2 className="text-xl md:text-2xl font-semibold text-gray-700">
+              No Apps Installed
+            </h2>
+            <p className="text-gray-500 mt-2">
+              You haven't installed any apps yet. Browse and install to get started!
+            </p>
+            <div className="mt-10 flex justify-center items-center">
+              <Link
+                to={"/apps"}
+                className="px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-lg transition cursor-pointer mb-6"
+              >
+                Apps
+              </Link>
+            </div>
+          </div>
+        ) : (
+          <div className="space-y-4">
+            {sortedApps.map((item) => (
+              <div
+                key={item.id}
+                className="flex items-center justify-between bg-white shadow-sm rounded-xl p-4 hover:shadow-md transition"
+              >
+                <div className="flex items-center gap-4">
+                  <img
+                    src={item.image}
+                    alt={item.title}
+                    className="w-16 h-16 object-cover rounded-lg"
+                  />
 
-                <div>
-                  <h3 className="text-gray-800 font-semibold">{item.title}</h3>
-                  <div className="flex items-center gap-3 text-sm mt-1">
-                    {/* Downloads */}
-                    <div className="flex items-center gap-1 text-green-600">
-                      <img src={download} alt="Downloads" className="w-4 h-4" />
-                      <span>{item.downloads}M</span>
-                    </div>
+                  <div>
+                    <h3 className="text-gray-800 font-semibold">{item.title}</h3>
+                    <div className="flex items-center gap-3 text-sm mt-1">
+                      {/* Downloads */}
+                      <div className="flex items-center gap-1 text-green-600">
+                        <img src={download} alt="Downloads" className="w-4 h-4" />
+                        <span>{item.downloads}M</span>
+                      </div>
 
-                    {/* Rating */}
-                    <div className="flex items-center gap-1 text-yellow-500">
-                      <img src={rating} alt="Star" className="w-4 h-4" />
-                      <span>{item.ratingAvg}</span>
+                      {/* Rating */}
+                      <div className="flex items-center gap-1 text-yellow-500">
+                        <img src={rating} alt="Star" className="w-4 h-4" />
+                        <span>{item.ratingAvg}</span>
+                      </div>
+                      <p className="text-gray-500">{item.size} MB</p>
                     </div>
-                    <p className="text-gray-500">{item.size} MB</p>
                   </div>
                 </div>
+                
+                <button
+                  onClick={() => handleUninstall(item.id)}
+                  className="bg-emerald-500 hover:bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg transition cursor-pointer"
+                >
+                  Uninstall
+                </button>
               </div>
-
-              {/* Uninstall  */}
-              <button
-                onClick={() => handleUninstall(item.id)}
-                className="bg-emerald-500 hover:bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg transition cursor-pointer"
-              >
-                Uninstall
-              </button>
-            </div>
-          ))}
-        </div>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
