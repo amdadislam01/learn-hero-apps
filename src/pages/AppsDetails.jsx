@@ -186,7 +186,7 @@ const AppsDetails = () => {
                 <Tooltip />
                 <Bar
                   dataKey="count"
-                  fill="#22c55e"
+                  fill="#f97316"
                   barSize={18}
                   radius={[4, 4, 4, 4]}
                 />
