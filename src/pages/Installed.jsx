@@ -5,16 +5,22 @@ import emptyImage from "../assets/App-Error.png";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
 import { Link } from "react-router";
+import Loader from "../components/Loader";
 
 const MySwal = withReactContent(Swal);
 
 const Installed = () => {
   const [installedApps, setInstalledApps] = useState([]);
+  const [loading, setLoading] = useState(true);
   const [sortOption, setSortOption] = useState("");
 
   useEffect(() => {
-    const saved = JSON.parse(localStorage.getItem("installedApps")) || [];
-    setInstalledApps(saved);
+    setLoading(true);
+    setTimeout(() => {
+      const saved = JSON.parse(localStorage.getItem("installedApps")) || [];
+      setInstalledApps(saved);
+      setLoading(false);
+    }, 500);
   }, []);
 
   const handleUninstall = (id) => {
@@ -54,6 +60,12 @@ const Installed = () => {
     }
     return 0;
   });
+
+  if (loading) {
+    return (
+        <Loader />
+    );
+  }
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] py-10 px-4 md:px-8 mt-10 md:mt-16">
@@ -139,7 +151,7 @@ const Installed = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 <button
                   onClick={() => handleUninstall(item.id)}
                   className="bg-emerald-500 hover:bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg transition cursor-pointer"

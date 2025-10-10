@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router";
+import { Link, useParams } from "react-router";
 import useApps from "../hooks/useApps";
 import Loader from "../components/Loader";
 import download from "../assets/icon-downloads.png";
 import rating from "../assets/icon-ratings.png";
 import review from "../assets/icon-review.png";
+import error from '../assets/App-Error.png'
 import {
   BarChart,
   Bar,
@@ -36,11 +37,33 @@ const AppsDetails = () => {
 
   if (!app) {
     return (
-      <div className="flex items-center justify-center h-[60vh] text-xl font-semibold text-gray-600">
-        Product Not Found ❌
+      <div className="flex flex-col items-center justify-center py-20 text-center">
+        <img src={error} alt="No Result" className="w-60 md:w-80 mb-5" />
+        <h1 className="text-gray-700 font-bold text-2xl md:text-4xl mb-3">
+          OPPS!! APPS DETAILS NOT FOUND
+        </h1>
+        <p className="text-gray-500 text-sm md:text-base max-w-md">
+          The app you are looking for doesn’t exist or may have been removed.
+          Please check the link again or explore our available apps.
+        </p>
+        <div className="mt-8 flex gap-5">
+          <Link
+            to={"/"}
+            className="px-6 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-lg shadow-lg hover:shadow-xl transition"
+          >
+            Home
+          </Link>
+          <Link
+            to={"/apps"}
+            className="px-6 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-lg shadow-lg hover:shadow-xl transition"
+          >
+            Apps
+          </Link>
+        </div>
       </div>
     );
   }
+
 
   const isInstalled = installedApps.some((a) => a.id === app.id);
 
@@ -134,11 +157,10 @@ const AppsDetails = () => {
           <button
             onClick={handleInstall}
             disabled={isInstalled}
-            className={`mt-6 px-6 py-3 rounded-lg transition-all duration-300 font-medium w-full sm:w-auto cursor-pointer ${
-              isInstalled
-                ? "bg-emerald-400 cursor-not-allowed text-white"
-                : "bg-emerald-500 hover:bg-emerald-600 text-white"
-            }`}
+            className={`mt-6 px-6 py-3 rounded-lg transition-all duration-300 font-medium w-full sm:w-auto cursor-pointer ${isInstalled
+              ? "bg-emerald-400 cursor-not-allowed text-white"
+              : "bg-emerald-500 hover:bg-emerald-600 text-white"
+              }`}
           >
             {isInstalled ? "Installed" : `Install Now (${app.size} MB)`}
           </button>
